@@ -65,7 +65,7 @@ export default function App() {
       </section>
 
       <section className="card rules-section" aria-label="自然拼读规则">
-        <h2 className="section-title">常见拼读规则</h2>
+        <h2 className="section-title">常见拼读规则指南</h2>
         <div className="grid">
           {rules.map((item) => (
             <article className="card" key={item.sound}>
