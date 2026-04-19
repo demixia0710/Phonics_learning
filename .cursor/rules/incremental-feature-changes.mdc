@@ -1,0 +1,28 @@
+---
+description: Enforce additive, non-destructive feature changes
+alwaysApply: true
+---
+
+# Incremental Feature Change Spec
+
+When adding or modifying functionality, preserve existing behavior unless the user explicitly asks to remove or replace it.
+
+- Prefer additive updates over rewrites.
+- Do not delete existing UI, logic, or interactions to deliver a new feature.
+- Keep backward compatibility for current user flows.
+- Reuse existing functions/components first, then extend.
+- If a change could alter old behavior, call out the impact before implementing.
+
+## Required change process
+
+1. Identify affected existing behavior.
+2. Implement new behavior as an extension layer.
+3. Verify original behavior still works.
+4. Summarize both: what was added and what was preserved.
+
+## Allowed exceptions
+
+- User explicitly requests replacement/removal.
+- Security or correctness issues require breaking change.
+
+In exceptions, clearly state what is removed/changed and why.
