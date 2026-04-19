@@ -285,7 +285,7 @@ export default function App() {
       </section>
 
       <section className="card rules-section" aria-label="自然拼读规则">
-        <h2 className="section-title">自然拼读规则大全 测试</h2>
+        <h2 className="section-title">自然拼读规则大全</h2>
         {rulesData.map((categoryData) => {
           const isExpanded = expandedCategories[categoryData.category];
           const displayRules = isExpanded ? categoryData.rules : categoryData.rules.slice(0, 2);
