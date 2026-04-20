@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <style>
+    .title { font: bold 72px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #1a1a1a; }
+    .subtitle { font: 36px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #666; }
+    .label { font: bold 48px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #fff; }
+    .word { font: bold 80px -apple-system, "SF Pro Display", sans-serif; }
+    .phonetic { font: 44px -apple-system, "SF Pro Display", sans-serif; fill: #666; }
+    .meaning { font: 36px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #666; }
+    .tip { font: 40px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #333; }
+  </style>
+  
+  <rect width="1500" height="2000" fill="#fafbfc"/>
+  
+  <text x="750" y="150" text-anchor="middle" class="title">短元音 vs 长元音</text>
+  <text x="750" y="220" text-anchor="middle" class="subtitle">傻傻分不清？一图看懂！</text>
+  
+  <!-- 短元音区域 -->
+  <g transform="translate(380, 500)">
+    <rect x="-280" y="-180" width="560" height="500" rx="30" fill="#fee2e2" stroke="#ef4444" stroke-width="4"/>
+    <rect x="-200" y="-130" width="400" height="80" rx="40" fill="#ef4444"/>
+    <text x="0" y="-75" text-anchor="middle" class="label">短元音</text>
+    
+    <text x="0" y="20" text-anchor="middle" class="word" fill="#ef4444">cap</text>
+    <text x="0" y="90" text-anchor="middle" class="phonetic">/kæp/</text>
+    <text x="0" y="160" text-anchor="middle" class="meaning">帽子 🧢</text>
+    <text x="0" y="250" text-anchor="middle" class="tip">发音短促</text>
+  </g>
+  
+  <!-- VS -->
+  <text x="750" y="520" text-anchor="middle" font-size="80" font-weight="bold" fill="#cbd5e1">VS</text>
+  
+  <!-- 长元音区域 -->
+  <g transform="translate(1120, 500)">
+    <rect x="-280" y="-180" width="560" height="500" rx="30" fill="#dbeafe" stroke="#2563eb" stroke-width="4"/>
+    <rect x="-200" y="-130" width="400" height="80" rx="40" fill="#2563eb"/>
+    <text x="0" y="-75" text-anchor="middle" class="label">长元音</text>
+    
+    <text x="0" y="20" text-anchor="middle" class="word" fill="#2563eb">cape</text>
+    <text x="0" y="90" text-anchor="middle" class="phonetic">/keɪp/</text>
+    <text x="0" y="160" text-anchor="middle" class="meaning">斗篷 🦸</text>
+    <text x="0" y="250" text-anchor="middle" class="tip">发音拉长</text>
+  </g>
+  
+  <!-- 更多例子 -->
+  <g transform="translate(750, 1150)">
+    <text x="0" y="0" text-anchor="middle" font-size="44" fill="#64748b" font-family="-apple-system, PingFang SC, sans-serif">更多例子</text>
+    
+    <g transform="translate(-300, 80)">
+      <text x="0" y="0" text-anchor="middle" class="word" fill="#ef4444" font-size="56">pet</text>
+      <text x="0" y="50" text-anchor="middle" class="meaning">宠物</text>
+    </g>
+    <g transform="translate(0, 80)">
+      <text x="0" y="0" text-anchor="middle" font-size="56" fill="#94a3b8">→</text>
+    </g>
+    <g transform="translate(300, 80)">
+      <text x="0" y="0" text-anchor="middle" class="word" fill="#2563eb" font-size="56">Pete</text>
+      <text x="0" y="50" text-anchor="middle" class="meaning">人名</text>
+    </g>
+    
+    <g transform="translate(-300, 200)">
+      <text x="0" y="0" text-anchor="middle" class="word" fill="#ef4444" font-size="56">hop</text>
+      <text x="0" y="50" text-anchor="middle" class="meaning">跳</text>
+    </g>
+    <g transform="translate(0, 200)">
+      <text x="0" y="0" text-anchor="middle" font-size="56" fill="#94a3b8">→</text>
+    </g>
+    <g transform="translate(300, 200)">
+      <text x="0" y="0" text-anchor="middle" class="word" fill="#2563eb" font-size="56">hope</text>
+      <text x="0" y="50" text-anchor="middle" class="meaning">希望</text>
+    </g>
+  </g>
+  
+  <!-- 底部提示 -->
+  <g transform="translate(750, 1750)">
+    <rect x="-550" y="-60" width="1100" height="120" rx="60" fill="#f1f5f9"/>
+    <text x="0" y="20" text-anchor="middle" font-size="44" fill="#1a1a1a" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">关键区别：结尾有没有"魔法e"</text>
+  </g>
+</svg>

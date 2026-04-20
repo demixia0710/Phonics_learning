@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <style>
+    .title { font: bold 80px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #1a1a1a; }
+    .subtitle { font: 36px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #666; }
+    .family-name { font: bold 56px -apple-system, "SF Pro Display", sans-serif; fill: #fff; }
+    .word { font: bold 44px -apple-system, "SF Pro Display", sans-serif; fill: #1a1a1a; }
+    .tip { font: 32px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #64748b; }
+    .highlight { font: bold 44px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #1a1a1a; }
+  </style>
+  
+  <rect width="1500" height="2000" fill="#fafbfc"/>
+  
+  <text x="750" y="150" text-anchor="middle" class="title">CVC 单词家族</text>
+  <text x="750" y="230" text-anchor="middle" class="subtitle">同尾音的单词组成"家族"，批量学习效率翻倍</text>
+  
+  <!-- -at 家族 -->
+  <g transform="translate(280, 550)">
+    <polygon points="0,-100 -160,0 160,0" fill="#ef4444"/>
+    <text x="0" y="-30" text-anchor="middle" class="family-name">-at</text>
+    <rect x="-140" y="0" width="280" height="280" fill="#fef2f2" stroke="#ef4444" stroke-width="3"/>
+    <text x="0" y="70" text-anchor="middle" class="word">cat</text>
+    <text x="0" y="140" text-anchor="middle" class="word">bat  hat</text>
+    <text x="0" y="210" text-anchor="middle" class="word">mat  rat</text>
+  </g>
+  
+  <!-- -og 家族 -->
+  <g transform="translate(750, 550)">
+    <polygon points="0,-100 -160,0 160,0" fill="#22c55e"/>
+    <text x="0" y="-30" text-anchor="middle" class="family-name">-og</text>
+    <rect x="-140" y="0" width="280" height="280" fill="#f0fdf4" stroke="#22c55e" stroke-width="3"/>
+    <text x="0" y="70" text-anchor="middle" class="word">dog</text>
+    <text x="0" y="140" text-anchor="middle" class="word">fog  log</text>
+    <text x="0" y="210" text-anchor="middle" class="word">hog  jog</text>
+  </g>
+  
+  <!-- -ig 家族 -->
+  <g transform="translate(1220, 550)">
+    <polygon points="0,-100 -160,0 160,0" fill="#2563eb"/>
+    <text x="0" y="-30" text-anchor="middle" class="family-name">-ig</text>
+    <rect x="-140" y="0" width="280" height="280" fill="#eff6ff" stroke="#2563eb" stroke-width="3"/>
+    <text x="0" y="70" text-anchor="middle" class="word">pig</text>
+    <text x="0" y="140" text-anchor="middle" class="word">big  dig</text>
+    <text x="0" y="210" text-anchor="middle" class="word">fig  wig</text>
+  </g>
+  
+  <!-- 更多家族预览 -->
+  <g transform="translate(750, 1150)">
+    <rect x="-550" y="-60" width="1100" height="120" rx="20" fill="#f1f5f9"/>
+    <text x="-420" y="20" font-size="36" fill="#64748b" font-family="-apple-system, PingFang SC, sans-serif">更多家族：</text>
+    <text x="-150" y="20" font-size="44" font-weight="bold" fill="#f97316" font-family="-apple-system, sans-serif">-ed</text>
+    <text x="-30" y="20" font-size="44" font-weight="bold" fill="#8b5cf6" font-family="-apple-system, sans-serif">-un</text>
+    <text x="90" y="20" font-size="44" font-weight="bold" fill="#ec4899" font-family="-apple-system, sans-serif">-op</text>
+    <text x="210" y="20" font-size="44" font-weight="bold" fill="#14b8a6" font-family="-apple-system, sans-serif">-en</text>
+    <text x="330" y="20" font-size="44" font-weight="bold" fill="#f59e0b" font-family="-apple-system, sans-serif">-ub</text>
+  </g>
+  
+  <!-- 规律说明 -->
+  <g transform="translate(750, 1450)">
+    <rect x="-500" y="-100" width="1000" height="200" rx="30" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+    <text x="0" y="-20" text-anchor="middle" class="tip">规律：换首字母，尾音不变</text>
+    <text x="0" y="50" text-anchor="middle" class="highlight">学会一个家族 = 掌握 6-8 个单词</text>
+  </g>
+  
+  <!-- 底部强调 -->
+  <g transform="translate(750, 1800)">
+    <rect x="-350" y="-50" width="700" height="100" rx="50" fill="#eff6ff"/>
+    <text x="0" y="18" text-anchor="middle" font-size="40" fill="#2563eb" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">举一反三，事半功倍</text>
+  </g>
+</svg>

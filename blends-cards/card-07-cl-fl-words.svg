@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <rect width="1500" height="2000" fill="#f8fafc"/>
+  <rect width="1500" height="10" fill="#3b82f6"/>
+  <text x="100" y="72" style="font-size:28px;fill:#93c5fd;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">07 / 08</text>
+  <text x="1400" y="72" text-anchor="end" style="font-size:28px;fill:#93c5fd;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">辅音连缀 Blends</text>
+  <text x="750" y="188" text-anchor="middle" style="font-size:80px;font-weight:700;fill:#0f172a;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">cl / cr / fl / fr 词汇</text>
+  <rect x="100" y="215" width="1300" height="5" fill="#bfdbfe" rx="2"/>
+
+  <!-- 4 sections: 2x2 grid -->
+  <!-- cl section (top-left) -->
+  <rect x="100" y="250" width="610" height="380" rx="16" fill="#fff"/>
+  <rect x="100" y="250" width="610" height="70" rx="16" fill="#1d4ed8"/>
+  <rect x="100" y="290" width="610" height="30" fill="#1d4ed8"/>
+  <text x="405" y="302" text-anchor="middle" style="font-size:48px;font-weight:700;fill:#fff;font-family:-apple-system,sans-serif;">cl</text>
+  <text x="200" y="390" style="font-size:44px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">cloud</text>
+  <text x="200" y="440" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">云</text>
+  <text x="200" y="488" style="font-size:44px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">clock</text>
+  <text x="200" y="538" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">时钟</text>
+  <text x="430" y="390" style="font-size:44px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">clap</text>
+  <text x="430" y="440" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">鼓掌</text>
+  <text x="430" y="488" style="font-size:44px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">clean</text>
+  <text x="430" y="538" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">干净</text>
+  <text x="200" y="586" style="font-size:44px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">climb</text>
+  <text x="200" y="610" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">爬</text>
+
+  <!-- cr section (top-right) -->
+  <rect x="790" y="250" width="610" height="380" rx="16" fill="#fff"/>
+  <rect x="790" y="250" width="610" height="70" rx="16" fill="#1d4ed8"/>
+  <rect x="790" y="290" width="610" height="30" fill="#1d4ed8"/>
+  <text x="1095" y="302" text-anchor="middle" style="font-size:48px;font-weight:700;fill:#fff;font-family:-apple-system,sans-serif;">cr</text>
+  <text x="890" y="390" style="font-size:44px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">crab</text>
+  <text x="890" y="440" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">螃蟹</text>
+  <text x="890" y="488" style="font-size:44px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">crown</text>
+  <text x="890" y="538" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">王冠</text>
+  <text x="1130" y="390" style="font-size:44px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">cross</text>
+  <text x="1130" y="440" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">穿过</text>
+  <text x="1130" y="488" style="font-size:44px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">cry</text>
+  <text x="1130" y="538" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">哭</text>
+  <text x="890" y="586" style="font-size:44px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">cream</text>
+  <text x="890" y="610" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">奶油</text>
+
+  <!-- fl section (bottom-left) -->
+  <rect x="100" y="660" width="610" height="380" rx="16" fill="#fff"/>
+  <rect x="100" y="660" width="610" height="70" rx="16" fill="#0ea5e9"/>
+  <rect x="100" y="700" width="610" height="30" fill="#0ea5e9"/>
+  <text x="405" y="712" text-anchor="middle" style="font-size:48px;font-weight:700;fill:#fff;font-family:-apple-system,sans-serif;">fl</text>
+  <text x="200" y="800" style="font-size:44px;font-weight:600;fill:#0369a1;font-family:-apple-system,sans-serif;">flag</text>
+  <text x="200" y="848" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">旗帜</text>
+  <text x="200" y="896" style="font-size:44px;font-weight:600;fill:#0369a1;font-family:-apple-system,sans-serif;">flat</text>
+  <text x="200" y="944" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">平的</text>
+  <text x="430" y="800" style="font-size:44px;font-weight:600;fill:#0369a1;font-family:-apple-system,sans-serif;">fly</text>
+  <text x="430" y="848" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">飞翔</text>
+  <text x="430" y="896" style="font-size:44px;font-weight:600;fill:#0369a1;font-family:-apple-system,sans-serif;">floor</text>
+  <text x="430" y="944" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">地板</text>
+  <text x="200" y="992" style="font-size:44px;font-weight:600;fill:#0369a1;font-family:-apple-system,sans-serif;">flower</text>
+  <text x="200" y="1016" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">花</text>
+
+  <!-- fr section (bottom-right) -->
+  <rect x="790" y="660" width="610" height="380" rx="16" fill="#fff"/>
+  <rect x="790" y="660" width="610" height="70" rx="16" fill="#0ea5e9"/>
+  <rect x="790" y="700" width="610" height="30" fill="#0ea5e9"/>
+  <text x="1095" y="712" text-anchor="middle" style="font-size:48px;font-weight:700;fill:#fff;font-family:-apple-system,sans-serif;">fr</text>
+  <text x="890" y="800" style="font-size:44px;font-weight:600;fill:#0369a1;font-family:-apple-system,sans-serif;">frog</text>
+  <text x="890" y="848" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">青蛙</text>
+  <text x="890" y="896" style="font-size:44px;font-weight:600;fill:#0369a1;font-family:-apple-system,sans-serif;">from</text>
+  <text x="890" y="944" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">来自</text>
+  <text x="1130" y="800" style="font-size:44px;font-weight:600;fill:#0369a1;font-family:-apple-system,sans-serif;">free</text>
+  <text x="1130" y="848" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">自由</text>
+  <text x="1130" y="896" style="font-size:44px;font-weight:600;fill:#0369a1;font-family:-apple-system,sans-serif;">fruit</text>
+  <text x="1130" y="944" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">水果</text>
+  <text x="890" y="992" style="font-size:44px;font-weight:600;fill:#0369a1;font-family:-apple-system,sans-serif;">fresh</text>
+  <text x="890" y="1016" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">新鲜的</text>
+
+  <!-- Pronunciation comparison -->
+  <rect x="100" y="1090" width="1300" height="80" rx="14" fill="#1e3a8a"/>
+  <text x="750" y="1142" text-anchor="middle" style="font-size:36px;fill:#fff;font-family:-apple-system,'PingFang SC',sans-serif;">cl/fl 后接 l，嘴型圆滑；cr/fr 后接 r，舌头卷起</text>
+
+  <!-- Extended word section -->
+  <text x="750" y="1240" text-anchor="middle" style="font-size:42px;font-weight:700;fill:#0f172a;font-family:-apple-system,'PingFang SC',sans-serif;">延伸词汇</text>
+
+  <text x="150" y="1330" style="font-size:40px;fill:#0f172a;font-family:-apple-system,sans-serif;">cl: clever  click  close  club  clue</text>
+  <text x="150" y="1420" style="font-size:40px;fill:#0f172a;font-family:-apple-system,sans-serif;">cr: crack  craft  crash  crazy  creek</text>
+  <text x="150" y="1510" style="font-size:40px;fill:#0f172a;font-family:-apple-system,sans-serif;">fl: flash  fling  float  flush  flock</text>
+  <text x="150" y="1600" style="font-size:40px;fill:#0f172a;font-family:-apple-system,sans-serif;">fr: frame  frank  frown  frost  fry</text>
+
+  <rect x="100" y="1680" width="1300" height="120" rx="14" fill="#dbeafe"/>
+  <text x="750" y="1732" text-anchor="middle" style="font-size:36px;fill:#1e3a8a;font-family:-apple-system,'PingFang SC',sans-serif;">小技巧：遇到不认识的 cl/cr/fl/fr 单词</text>
+  <text x="750" y="1782" text-anchor="middle" style="font-size:36px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,'PingFang SC',sans-serif;">直接用连缀发音法尝试拼读！</text>
+
+  <rect x="0" y="1870" width="1500" height="130" fill="#dbeafe"/>
+  <text x="750" y="1952" text-anchor="middle" style="font-size:32px;fill:#1d4ed8;font-family:-apple-system,'PingFang SC',sans-serif;">自然拼读 Phonics · 辅音连缀专题</text>
+</svg>

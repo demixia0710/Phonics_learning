@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <style>
+    .title { font: bold 80px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #1a1a1a; }
+    .subtitle { font: 36px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #666; }
+    .letter { font: bold 160px -apple-system, "SF Pro Display", "Arial Black", sans-serif; fill: #fff; }
+    .label { font: bold 32px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #666; }
+    .word { font: bold 56px -apple-system, "SF Pro Display", sans-serif; fill: #2563eb; }
+    .slogan { font: 40px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #333; }
+  </style>
+  
+  <rect width="1500" height="2000" fill="#fafbfc"/>
+  
+  <!-- 标题区域 -->
+  <text x="750" y="200" text-anchor="middle" class="title">什么是 CVC？</text>
+  <text x="750" y="280" text-anchor="middle" class="subtitle">英语拼读的第一课</text>
+  
+  <!-- CVC 三方块 - 垂直居中 -->
+  <g transform="translate(750, 850)">
+    <!-- C 方块 -->
+    <rect x="-550" y="-150" width="300" height="300" rx="30" fill="#64748b"/>
+    <text x="-400" y="50" text-anchor="middle" class="letter">C</text>
+    
+    <!-- + 号 -->
+    <text x="-200" y="30" text-anchor="middle" font-size="80" fill="#cbd5e1">+</text>
+    
+    <!-- V 方块 (高亮) -->
+    <rect x="-150" y="-150" width="300" height="300" rx="30" fill="#2563eb"/>
+    <text x="0" y="50" text-anchor="middle" class="letter">V</text>
+    
+    <!-- + 号 -->
+    <text x="200" y="30" text-anchor="middle" font-size="80" fill="#cbd5e1">+</text>
+    
+    <!-- C 方块 -->
+    <rect x="250" y="-150" width="300" height="300" rx="30" fill="#64748b"/>
+    <text x="400" y="50" text-anchor="middle" class="letter">C</text>
+  </g>
+  
+  <!-- 标签行 -->
+  <g transform="translate(750, 1150)">
+    <text x="-400" y="0" text-anchor="middle" class="label">辅音</text>
+    <text x="-400" y="50" text-anchor="middle" class="label">Consonant</text>
+    <text x="0" y="0" text-anchor="middle" class="label" fill="#2563eb">元音</text>
+    <text x="0" y="50" text-anchor="middle" class="label" fill="#2563eb">Vowel</text>
+    <text x="400" y="0" text-anchor="middle" class="label">辅音</text>
+    <text x="400" y="50" text-anchor="middle" class="label">Consonant</text>
+  </g>
+  
+  <!-- 示例单词 -->
+  <g transform="translate(750, 1450)">
+    <text x="-400" y="0" text-anchor="middle" class="word">cat</text>
+    <text x="-140" y="0" text-anchor="middle" class="word">dog</text>
+    <text x="120" y="0" text-anchor="middle" class="word">pig</text>
+    <text x="380" y="0" text-anchor="middle" class="word">sun</text>
+  </g>
+  
+  <!-- 底部标语 -->
+  <g transform="translate(750, 1750)">
+    <rect x="-300" y="-50" width="600" height="100" rx="50" fill="#eff6ff"/>
+    <text x="0" y="18" text-anchor="middle" class="slogan" fill="#2563eb">3个字母，无限可能</text>
+  </g>
+</svg>

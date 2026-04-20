@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <style>
+    .title { font: bold 72px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #1a1a1a; }
+    .header { font: bold 40px -apple-system, "SF Pro Display", sans-serif; fill: #fff; }
+    .word { font: bold 44px -apple-system, "SF Pro Display", sans-serif; fill: #1a1a1a; }
+    .tip { font: 36px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #64748b; }
+  </style>
+  
+  <rect width="1500" height="2000" fill="#fafbfc"/>
+  
+  <text x="750" y="130" text-anchor="middle" class="title">常见魔法e单词</text>
+  
+  <!-- 表头 -->
+  <g transform="translate(100, 250)">
+    <rect x="0" y="0" width="250" height="80" fill="#ef4444" rx="10"/>
+    <text x="125" y="52" text-anchor="middle" class="header">a_e</text>
+    
+    <rect x="260" y="0" width="250" height="80" fill="#f97316" rx="10"/>
+    <text x="385" y="52" text-anchor="middle" class="header">e_e</text>
+    
+    <rect x="520" y="0" width="250" height="80" fill="#eab308" rx="10"/>
+    <text x="645" y="52" text-anchor="middle" class="header">i_e</text>
+    
+    <rect x="780" y="0" width="250" height="80" fill="#22c55e" rx="10"/>
+    <text x="905" y="52" text-anchor="middle" class="header">o_e</text>
+    
+    <rect x="1040" y="0" width="250" height="80" fill="#2563eb" rx="10"/>
+    <text x="1165" y="52" text-anchor="middle" class="header">u_e</text>
+  </g>
+  
+  <!-- 第1行 -->
+  <g transform="translate(100, 400)">
+    <rect x="0" y="0" width="250" height="100" fill="#fef2f2"/>
+    <text x="125" y="65" text-anchor="middle" class="word">cake</text>
+    
+    <rect x="260" y="0" width="250" height="100" fill="#fff7ed"/>
+    <text x="385" y="65" text-anchor="middle" class="word">Pete</text>
+    
+    <rect x="520" y="0" width="250" height="100" fill="#fefce8"/>
+    <text x="645" y="65" text-anchor="middle" class="word">bike</text>
+    
+    <rect x="780" y="0" width="250" height="100" fill="#f0fdf4"/>
+    <text x="905" y="65" text-anchor="middle" class="word">home</text>
+    
+    <rect x="1040" y="0" width="250" height="100" fill="#eff6ff"/>
+    <text x="1165" y="65" text-anchor="middle" class="word">cute</text>
+  </g>
+  
+  <!-- 第2行 -->
+  <g transform="translate(100, 520)">
+    <rect x="0" y="0" width="250" height="100" fill="#fef2f2"/>
+    <text x="125" y="65" text-anchor="middle" class="word">make</text>
+    
+    <rect x="260" y="0" width="250" height="100" fill="#fff7ed"/>
+    <text x="385" y="65" text-anchor="middle" class="word">these</text>
+    
+    <rect x="520" y="0" width="250" height="100" fill="#fefce8"/>
+    <text x="645" y="65" text-anchor="middle" class="word">like</text>
+    
+    <rect x="780" y="0" width="250" height="100" fill="#f0fdf4"/>
+    <text x="905" y="65" text-anchor="middle" class="word">hope</text>
+    
+    <rect x="1040" y="0" width="250" height="100" fill="#eff6ff"/>
+    <text x="1165" y="65" text-anchor="middle" class="word">tube</text>
+  </g>
+  
+  <!-- 第3行 -->
+  <g transform="translate(100, 640)">
+    <rect x="0" y="0" width="250" height="100" fill="#fef2f2"/>
+    <text x="125" y="65" text-anchor="middle" class="word">game</text>
+    
+    <rect x="260" y="0" width="250" height="100" fill="#fff7ed"/>
+    <text x="385" y="65" text-anchor="middle" class="word">Steve</text>
+    
+    <rect x="520" y="0" width="250" height="100" fill="#fefce8"/>
+    <text x="645" y="65" text-anchor="middle" class="word">time</text>
+    
+    <rect x="780" y="0" width="250" height="100" fill="#f0fdf4"/>
+    <text x="905" y="65" text-anchor="middle" class="word">nose</text>
+    
+    <rect x="1040" y="0" width="250" height="100" fill="#eff6ff"/>
+    <text x="1165" y="65" text-anchor="middle" class="word">June</text>
+  </g>
+  
+  <!-- 第4行 -->
+  <g transform="translate(100, 760)">
+    <rect x="0" y="0" width="250" height="100" fill="#fef2f2"/>
+    <text x="125" y="65" text-anchor="middle" class="word">name</text>
+    
+    <rect x="260" y="0" width="250" height="100" fill="#fff7ed"/>
+    <text x="385" y="65" text-anchor="middle" class="word">scene</text>
+    
+    <rect x="520" y="0" width="250" height="100" fill="#fefce8"/>
+    <text x="645" y="65" text-anchor="middle" class="word">five</text>
+    
+    <rect x="780" y="0" width="250" height="100" fill="#f0fdf4"/>
+    <text x="905" y="65" text-anchor="middle" class="word">rose</text>
+    
+    <rect x="1040" y="0" width="250" height="100" fill="#eff6ff"/>
+    <text x="1165" y="65" text-anchor="middle" class="word">huge</text>
+  </g>
+  
+  <!-- 第5行 -->
+  <g transform="translate(100, 880)">
+    <rect x="0" y="0" width="250" height="100" fill="#fef2f2"/>
+    <text x="125" y="65" text-anchor="middle" class="word">take</text>
+    
+    <rect x="260" y="0" width="250" height="100" fill="#fff7ed"/>
+    <text x="385" y="65" text-anchor="middle" class="word">eve</text>
+    
+    <rect x="520" y="0" width="250" height="100" fill="#fefce8"/>
+    <text x="645" y="65" text-anchor="middle" class="word">nine</text>
+    
+    <rect x="780" y="0" width="250" height="100" fill="#f0fdf4"/>
+    <text x="905" y="65" text-anchor="middle" class="word">bone</text>
+    
+    <rect x="1040" y="0" width="250" height="100" fill="#eff6ff"/>
+    <text x="1165" y="65" text-anchor="middle" class="word">use</text>
+  </g>
+  
+  <!-- 统计 -->
+  <g transform="translate(750, 1150)">
+    <rect x="-400" y="-50" width="800" height="100" rx="50" fill="#f1f5f9"/>
+    <text x="0" y="18" text-anchor="middle" font-size="44" fill="#1a1a1a" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">25个高频魔法e单词</text>
+  </g>
+  
+  <!-- 发音规律 -->
+  <g transform="translate(750, 1400)">
+    <text x="0" y="0" text-anchor="middle" font-size="48" fill="#ef4444" font-weight="bold" font-family="-apple-system, SF Pro Display, sans-serif">a_e → /eɪ/</text>
+    <text x="0" y="80" text-anchor="middle" font-size="48" fill="#f97316" font-weight="bold" font-family="-apple-system, SF Pro Display, sans-serif">e_e → /iː/</text>
+    <text x="0" y="160" text-anchor="middle" font-size="48" fill="#eab308" font-weight="bold" font-family="-apple-system, SF Pro Display, sans-serif">i_e → /aɪ/</text>
+    <text x="0" y="240" text-anchor="middle" font-size="48" fill="#22c55e" font-weight="bold" font-family="-apple-system, SF Pro Display, sans-serif">o_e → /oʊ/</text>
+    <text x="0" y="320" text-anchor="middle" font-size="48" fill="#2563eb" font-weight="bold" font-family="-apple-system, SF Pro Display, sans-serif">u_e → /juː/</text>
+  </g>
+  
+  <!-- 底部 -->
+  <g transform="translate(750, 1880)">
+    <text x="0" y="0" text-anchor="middle" class="tip">每组发音规律一致，掌握一个会一串！</text>
+  </g>
+</svg>

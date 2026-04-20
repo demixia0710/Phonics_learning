@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <rect width="1500" height="2000" fill="#f8fafc"/>
+  <rect width="1500" height="10" fill="#3b82f6"/>
+  <text x="100" y="72" style="font-size:28px;fill:#93c5fd;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">02 / 08</text>
+  <text x="1400" y="72" text-anchor="end" style="font-size:28px;fill:#93c5fd;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">辅音连缀 Blends</text>
+  <text x="750" y="188" text-anchor="middle" style="font-size:80px;font-weight:700;fill:#0f172a;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">L-Blends</text>
+  <text x="750" y="248" text-anchor="middle" style="font-size:40px;fill:#3b82f6;font-family:-apple-system,'PingFang SC',sans-serif;">bl · cl · fl · gl · pl · sl</text>
+  <rect x="100" y="272" width="1300" height="5" fill="#bfdbfe" rx="2"/>
+
+  <!-- Grid: 2 cols x 3 rows, item size 590x290 -->
+  <!-- Row 1 -->
+  <!-- bl -->
+  <rect x="100" y="300" width="590" height="290" rx="16" fill="#fff"/>
+  <rect x="100" y="300" width="10" height="290" rx="5" fill="#3b82f6"/>
+  <text x="270" y="478" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">bl</text>
+  <line x1="420" y1="318" x2="420" y2="572" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="555" y="440" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">blue</text>
+  <text x="555" y="510" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">蓝色</text>
+  <!-- cl -->
+  <rect x="810" y="300" width="590" height="290" rx="16" fill="#fff"/>
+  <rect x="810" y="300" width="10" height="290" rx="5" fill="#3b82f6"/>
+  <text x="980" y="478" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">cl</text>
+  <line x1="1130" y1="318" x2="1130" y2="572" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="1265" y="440" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">cloud</text>
+  <text x="1265" y="510" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">云</text>
+
+  <!-- Row 2 -->
+  <!-- fl -->
+  <rect x="100" y="620" width="590" height="290" rx="16" fill="#fff"/>
+  <rect x="100" y="620" width="10" height="290" rx="5" fill="#3b82f6"/>
+  <text x="270" y="798" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">fl</text>
+  <line x1="420" y1="638" x2="420" y2="892" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="555" y="760" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">flag</text>
+  <text x="555" y="830" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">旗帜</text>
+  <!-- gl -->
+  <rect x="810" y="620" width="590" height="290" rx="16" fill="#fff"/>
+  <rect x="810" y="620" width="10" height="290" rx="5" fill="#3b82f6"/>
+  <text x="980" y="798" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">gl</text>
+  <line x1="1130" y1="638" x2="1130" y2="892" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="1265" y="760" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">glass</text>
+  <text x="1265" y="830" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">玻璃杯</text>
+
+  <!-- Row 3 -->
+  <!-- pl -->
+  <rect x="100" y="940" width="590" height="290" rx="16" fill="#fff"/>
+  <rect x="100" y="940" width="10" height="290" rx="5" fill="#3b82f6"/>
+  <text x="270" y="1118" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">pl</text>
+  <line x1="420" y1="958" x2="420" y2="1212" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="555" y="1080" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">plane</text>
+  <text x="555" y="1150" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">飞机</text>
+  <!-- sl -->
+  <rect x="810" y="940" width="590" height="290" rx="16" fill="#fff"/>
+  <rect x="810" y="940" width="10" height="290" rx="5" fill="#3b82f6"/>
+  <text x="980" y="1118" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">sl</text>
+  <line x1="1130" y1="958" x2="1130" y2="1212" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="1265" y="1080" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">slide</text>
+  <text x="1265" y="1150" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">滑梯</text>
+
+  <!-- Vocab section -->
+  <rect x="100" y="1275" width="1300" height="60" rx="10" fill="#dbeafe"/>
+  <text x="750" y="1316" text-anchor="middle" style="font-size:34px;font-weight:600;fill:#1e3a8a;font-family:-apple-system,'PingFang SC',sans-serif;">本组必背高频词</text>
+
+  <text x="150" y="1420" style="font-size:42px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">bl:</text>
+  <text x="250" y="1420" style="font-size:40px;fill:#0f172a;font-family:-apple-system,sans-serif;">black  blend  blow  blind</text>
+  <text x="150" y="1520" style="font-size:42px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">cl:</text>
+  <text x="250" y="1520" style="font-size:40px;fill:#0f172a;font-family:-apple-system,sans-serif;">clock  clap  clean  close</text>
+  <text x="150" y="1620" style="font-size:42px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">fl:</text>
+  <text x="250" y="1620" style="font-size:40px;fill:#0f172a;font-family:-apple-system,sans-serif;">flat  fly  flower  floor</text>
+  <text x="150" y="1720" style="font-size:42px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">gl:</text>
+  <text x="250" y="1720" style="font-size:40px;fill:#0f172a;font-family:-apple-system,sans-serif;">glad  glow  glue  glide</text>
+  <text x="150" y="1820" style="font-size:42px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">pl/sl:</text>
+  <text x="310" y="1820" style="font-size:40px;fill:#0f172a;font-family:-apple-system,sans-serif;">play  plus  slow  slim</text>
+
+  <rect x="0" y="1870" width="1500" height="130" fill="#dbeafe"/>
+  <text x="750" y="1952" text-anchor="middle" style="font-size:32px;fill:#1d4ed8;font-family:-apple-system,'PingFang SC',sans-serif;">自然拼读 Phonics · 辅音连缀专题</text>
+</svg>

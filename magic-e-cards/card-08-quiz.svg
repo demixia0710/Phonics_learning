@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <style>
+    .title { font: bold 72px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #1a1a1a; }
+    .word { font: bold 64px -apple-system, "SF Pro Display", sans-serif; fill: #1a1a1a; }
+    .answer-short { font: bold 44px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #ef4444; }
+    .answer-long { font: bold 44px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #2563eb; }
+    .reason { font: 32px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #666; }
+  </style>
+  
+  <rect width="1500" height="2000" fill="#fafbfc"/>
+  
+  <text x="750" y="130" text-anchor="middle" class="title">练习小测试 📝</text>
+  <text x="750" y="200" text-anchor="middle" font-size="36" fill="#666" font-family="-apple-system, PingFang SC, sans-serif">判断下列单词是短元音还是长元音</text>
+  
+  <!-- 题目1 -->
+  <g transform="translate(750, 380)">
+    <rect x="-550" y="-70" width="1100" height="140" rx="20" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+    <text x="-400" y="20" text-anchor="middle" class="word">tape</text>
+    <text x="0" y="20" text-anchor="middle" font-size="48" fill="#94a3b8">→</text>
+    <text x="200" y="15" text-anchor="middle" class="answer-long">长元音 ✓</text>
+    <text x="400" y="15" text-anchor="middle" class="reason">有魔法e</text>
+  </g>
+  
+  <!-- 题目2 -->
+  <g transform="translate(750, 560)">
+    <rect x="-550" y="-70" width="1100" height="140" rx="20" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+    <text x="-400" y="20" text-anchor="middle" class="word">tap</text>
+    <text x="0" y="20" text-anchor="middle" font-size="48" fill="#94a3b8">→</text>
+    <text x="200" y="15" text-anchor="middle" class="answer-short">短元音 ✓</text>
+    <text x="400" y="15" text-anchor="middle" class="reason">无e</text>
+  </g>
+  
+  <!-- 题目3 -->
+  <g transform="translate(750, 740)">
+    <rect x="-550" y="-70" width="1100" height="140" rx="20" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+    <text x="-400" y="20" text-anchor="middle" class="word">note</text>
+    <text x="0" y="20" text-anchor="middle" font-size="48" fill="#94a3b8">→</text>
+    <text x="200" y="15" text-anchor="middle" class="answer-long">长元音 ✓</text>
+    <text x="400" y="15" text-anchor="middle" class="reason">有魔法e</text>
+  </g>
+  
+  <!-- 题目4 -->
+  <g transform="translate(750, 920)">
+    <rect x="-550" y="-70" width="1100" height="140" rx="20" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+    <text x="-400" y="20" text-anchor="middle" class="word">not</text>
+    <text x="0" y="20" text-anchor="middle" font-size="48" fill="#94a3b8">→</text>
+    <text x="200" y="15" text-anchor="middle" class="answer-short">短元音 ✓</text>
+    <text x="400" y="15" text-anchor="middle" class="reason">无e</text>
+  </g>
+  
+  <!-- 题目5 -->
+  <g transform="translate(750, 1100)">
+    <rect x="-550" y="-70" width="1100" height="140" rx="20" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+    <text x="-400" y="20" text-anchor="middle" class="word">cube</text>
+    <text x="0" y="20" text-anchor="middle" font-size="48" fill="#94a3b8">→</text>
+    <text x="200" y="15" text-anchor="middle" class="answer-long">长元音 ✓</text>
+    <text x="400" y="15" text-anchor="middle" class="reason">有魔法e</text>
+  </g>
+  
+  <!-- 题目6 -->
+  <g transform="translate(750, 1280)">
+    <rect x="-550" y="-70" width="1100" height="140" rx="20" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+    <text x="-400" y="20" text-anchor="middle" class="word">cub</text>
+    <text x="0" y="20" text-anchor="middle" font-size="48" fill="#94a3b8">→</text>
+    <text x="200" y="15" text-anchor="middle" class="answer-short">短元音 ✓</text>
+    <text x="400" y="15" text-anchor="middle" class="reason">无e</text>
+  </g>
+  
+  <!-- 规律总结 -->
+  <g transform="translate(750, 1520)">
+    <rect x="-500" y="-70" width="1000" height="140" rx="30" fill="#f5f3ff" stroke="#8b5cf6" stroke-width="4"/>
+    <text x="0" y="20" text-anchor="middle" font-size="48" fill="#8b5cf6" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">答案规律：有e就长，无e就短</text>
+  </g>
+  
+  <!-- 底部金句 -->
+  <g transform="translate(750, 1800)">
+    <rect x="-550" y="-70" width="1100" height="140" rx="70" fill="#8b5cf6"/>
+    <text x="0" y="25" text-anchor="middle" font-size="44" fill="#fff" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">魔法e让元音"喊出自己的名字" ✨</text>
+  </g>
+</svg>

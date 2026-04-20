@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <rect width="1500" height="2000" fill="#f8fafc"/>
+  <rect width="1500" height="10" fill="#3b82f6"/>
+  <text x="100" y="72" style="font-size:28px;fill:#93c5fd;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">04 / 08</text>
+  <text x="1400" y="72" text-anchor="end" style="font-size:28px;fill:#93c5fd;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">辅音连缀 Blends</text>
+  <text x="750" y="188" text-anchor="middle" style="font-size:80px;font-weight:700;fill:#0f172a;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">S-Blends</text>
+  <text x="750" y="248" text-anchor="middle" style="font-size:40px;fill:#3b82f6;font-family:-apple-system,'PingFang SC',sans-serif;">sc · sk · sm · sn · sp · st · sw</text>
+  <rect x="100" y="272" width="1300" height="5" fill="#bfdbfe" rx="2"/>
+
+  <!-- Row 1: sc, sk -->
+  <rect x="100" y="300" width="590" height="270" rx="16" fill="#fff"/>
+  <rect x="100" y="300" width="10" height="270" rx="5" fill="#3b82f6"/>
+  <text x="270" y="468" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">sc</text>
+  <line x1="420" y1="318" x2="420" y2="552" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="555" y="430" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">scarf</text>
+  <text x="555" y="498" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">围巾</text>
+
+  <rect x="810" y="300" width="590" height="270" rx="16" fill="#fff"/>
+  <rect x="810" y="300" width="10" height="270" rx="5" fill="#3b82f6"/>
+  <text x="980" y="468" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">sk</text>
+  <line x1="1130" y1="318" x2="1130" y2="552" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="1265" y="430" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">skip</text>
+  <text x="1265" y="498" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">跳跃</text>
+
+  <!-- Row 2: sm, sn -->
+  <rect x="100" y="600" width="590" height="270" rx="16" fill="#fff"/>
+  <rect x="100" y="600" width="10" height="270" rx="5" fill="#3b82f6"/>
+  <text x="270" y="768" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">sm</text>
+  <line x1="420" y1="618" x2="420" y2="852" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="555" y="730" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">smile</text>
+  <text x="555" y="798" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">微笑</text>
+
+  <rect x="810" y="600" width="590" height="270" rx="16" fill="#fff"/>
+  <rect x="810" y="600" width="10" height="270" rx="5" fill="#3b82f6"/>
+  <text x="980" y="768" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">sn</text>
+  <line x1="1130" y1="618" x2="1130" y2="852" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="1265" y="730" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">snow</text>
+  <text x="1265" y="798" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">雪</text>
+
+  <!-- Row 3: sp, st -->
+  <rect x="100" y="900" width="590" height="270" rx="16" fill="#fff"/>
+  <rect x="100" y="900" width="10" height="270" rx="5" fill="#3b82f6"/>
+  <text x="270" y="1068" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">sp</text>
+  <line x1="420" y1="918" x2="420" y2="1152" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="555" y="1030" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">spin</text>
+  <text x="555" y="1098" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">旋转</text>
+
+  <rect x="810" y="900" width="590" height="270" rx="16" fill="#fff"/>
+  <rect x="810" y="900" width="10" height="270" rx="5" fill="#3b82f6"/>
+  <text x="980" y="1068" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">st</text>
+  <line x1="1130" y1="918" x2="1130" y2="1152" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="1265" y="1030" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">star</text>
+  <text x="1265" y="1098" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">星星</text>
+
+  <!-- Row 4: sw (full width, highlighted) -->
+  <rect x="100" y="1200" width="1300" height="270" rx="16" fill="#dbeafe"/>
+  <rect x="100" y="1200" width="10" height="270" rx="5" fill="#1d4ed8"/>
+  <text x="360" y="1368" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">sw</text>
+  <line x1="520" y1="1218" x2="520" y2="1452" stroke="#93c5fd" stroke-width="2"/>
+  <text x="900" y="1310" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">swim  sweet  swing  swift</text>
+  <text x="900" y="1380" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">游泳  甜的  荡秋千  快速的</text>
+  <text x="900" y="1440" text-anchor="middle" style="font-size:30px;fill:#3b82f6;font-family:-apple-system,'PingFang SC',sans-serif;">sw 发音时嘴唇要圆，像吹口哨！</text>
+
+  <!-- Note box -->
+  <rect x="100" y="1520" width="1300" height="60" rx="10" fill="#1e3a8a"/>
+  <text x="750" y="1561" text-anchor="middle" style="font-size:34px;font-weight:600;fill:#fff;font-family:-apple-system,'PingFang SC',sans-serif;">S-Blends 特点：s 的嘶嘶声引导后面的辅音</text>
+
+  <text x="150" y="1660" style="font-size:40px;fill:#0f172a;font-family:-apple-system,sans-serif;">sc/sk: score  skull  skill  skin</text>
+  <text x="150" y="1740" style="font-size:40px;fill:#0f172a;font-family:-apple-system,sans-serif;">sp/st: spot  speak  stop  step</text>
+  <text x="150" y="1820" style="font-size:40px;fill:#0f172a;font-family:-apple-system,sans-serif;">sm/sn: small  smart  snack  sneak</text>
+
+  <rect x="0" y="1870" width="1500" height="130" fill="#dbeafe"/>
+  <text x="750" y="1952" text-anchor="middle" style="font-size:32px;fill:#1d4ed8;font-family:-apple-system,'PingFang SC',sans-serif;">自然拼读 Phonics · 辅音连缀专题</text>
+</svg>

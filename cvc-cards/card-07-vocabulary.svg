@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <style>
+    .title { font: bold 80px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #1a1a1a; }
+    .vowel-label { font: bold 44px -apple-system, "SF Pro Display", sans-serif; fill: #fff; }
+    .word { font: bold 40px -apple-system, "SF Pro Display", sans-serif; fill: #1a1a1a; }
+    .tip { font: 32px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #64748b; }
+    .count { font: bold 40px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #2563eb; }
+  </style>
+  
+  <rect width="1500" height="2000" fill="#fafbfc"/>
+  
+  <text x="750" y="140" text-anchor="middle" class="title">常见 CVC 词汇表</text>
+  
+  <g transform="translate(100, 280)">
+    <!-- A 行 -->
+    <rect x="0" y="0" width="1300" height="140" fill="#fef2f2"/>
+    <rect x="0" y="0" width="120" height="140" fill="#ef4444"/>
+    <text x="60" y="90" text-anchor="middle" class="vowel-label">a</text>
+    <text x="220" y="90" text-anchor="middle" class="word">cat</text>
+    <text x="380" y="90" text-anchor="middle" class="word">bat</text>
+    <text x="540" y="90" text-anchor="middle" class="word">hat</text>
+    <text x="720" y="90" text-anchor="middle" class="word">man</text>
+    <text x="900" y="90" text-anchor="middle" class="word">can</text>
+    <text x="1080" y="90" text-anchor="middle" class="word">dad</text>
+    
+    <!-- E 行 -->
+    <rect x="0" y="160" width="1300" height="140" fill="#fff7ed"/>
+    <rect x="0" y="160" width="120" height="140" fill="#f97316"/>
+    <text x="60" y="250" text-anchor="middle" class="vowel-label">e</text>
+    <text x="220" y="250" text-anchor="middle" class="word">bed</text>
+    <text x="380" y="250" text-anchor="middle" class="word">red</text>
+    <text x="540" y="250" text-anchor="middle" class="word">pen</text>
+    <text x="720" y="250" text-anchor="middle" class="word">hen</text>
+    <text x="900" y="250" text-anchor="middle" class="word">ten</text>
+    <text x="1080" y="250" text-anchor="middle" class="word">wet</text>
+    
+    <!-- I 行 -->
+    <rect x="0" y="320" width="1300" height="140" fill="#fefce8"/>
+    <rect x="0" y="320" width="120" height="140" fill="#eab308"/>
+    <text x="60" y="410" text-anchor="middle" class="vowel-label">i</text>
+    <text x="220" y="410" text-anchor="middle" class="word">pig</text>
+    <text x="380" y="410" text-anchor="middle" class="word">big</text>
+    <text x="540" y="410" text-anchor="middle" class="word">sit</text>
+    <text x="720" y="410" text-anchor="middle" class="word">hit</text>
+    <text x="900" y="410" text-anchor="middle" class="word">kid</text>
+    <text x="1080" y="410" text-anchor="middle" class="word">lid</text>
+    
+    <!-- O 行 -->
+    <rect x="0" y="480" width="1300" height="140" fill="#f0fdf4"/>
+    <rect x="0" y="480" width="120" height="140" fill="#22c55e"/>
+    <text x="60" y="570" text-anchor="middle" class="vowel-label">o</text>
+    <text x="220" y="570" text-anchor="middle" class="word">dog</text>
+    <text x="380" y="570" text-anchor="middle" class="word">hot</text>
+    <text x="540" y="570" text-anchor="middle" class="word">pot</text>
+    <text x="720" y="570" text-anchor="middle" class="word">box</text>
+    <text x="900" y="570" text-anchor="middle" class="word">fox</text>
+    <text x="1080" y="570" text-anchor="middle" class="word">mom</text>
+    
+    <!-- U 行 -->
+    <rect x="0" y="640" width="1300" height="140" fill="#eff6ff"/>
+    <rect x="0" y="640" width="120" height="140" fill="#2563eb"/>
+    <text x="60" y="730" text-anchor="middle" class="vowel-label">u</text>
+    <text x="220" y="730" text-anchor="middle" class="word">sun</text>
+    <text x="380" y="730" text-anchor="middle" class="word">cup</text>
+    <text x="540" y="730" text-anchor="middle" class="word">bus</text>
+    <text x="720" y="730" text-anchor="middle" class="word">nut</text>
+    <text x="900" y="730" text-anchor="middle" class="word">hug</text>
+    <text x="1080" y="730" text-anchor="middle" class="word">mud</text>
+  </g>
+  
+  <!-- 统计 -->
+  <g transform="translate(750, 1250)">
+    <rect x="-450" y="-55" width="900" height="110" rx="55" fill="#f1f5f9"/>
+    <text x="0" y="18" text-anchor="middle" class="count">30 个核心 CVC 词，覆盖日常高频场景</text>
+  </g>
+  
+  <!-- 学习建议 -->
+  <g transform="translate(750, 1500)">
+    <rect x="-500" y="-100" width="1000" height="200" rx="30" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+    <text x="0" y="-20" text-anchor="middle" class="tip">学习建议：每天练习 5 个，一周掌握一组</text>
+    <text x="0" y="50" text-anchor="middle" class="tip">方法：看词读音 → 听音写词 → 造句运用</text>
+  </g>
+  
+  <!-- 底部提示 -->
+  <g transform="translate(750, 1820)">
+    <rect x="-350" y="-50" width="700" height="100" rx="50" fill="#eff6ff"/>
+    <text x="0" y="18" text-anchor="middle" font-size="40" fill="#2563eb" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">坚持打卡，必有收获</text>
+  </g>
+</svg>

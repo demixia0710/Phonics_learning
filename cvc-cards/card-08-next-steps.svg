@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <style>
+    .title { font: bold 80px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #1a1a1a; }
+    .level { font: bold 48px -apple-system, "SF Pro Display", sans-serif; fill: #fff; }
+    .example { font: 36px -apple-system, "SF Pro Display", sans-serif; }
+    .highlight { font: bold 44px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #2563eb; }
+    .tip { font: 32px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #64748b; }
+    .marker { font: bold 36px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #22c55e; }
+  </style>
+  
+  <rect width="1500" height="2000" fill="#fafbfc"/>
+  
+  <text x="750" y="150" text-anchor="middle" class="title">从 CVC 到进阶</text>
+  
+  <!-- 阶梯图 -->
+  <g transform="translate(150, 350)">
+    <!-- 第四级：复杂组合 -->
+    <rect x="800" y="0" width="350" height="160" rx="16" fill="#8b5cf6"/>
+    <text x="975" y="70" text-anchor="middle" class="level">复杂组合</text>
+    <text x="975" y="120" text-anchor="middle" class="example" fill="#e9d5ff">更多变化...</text>
+    
+    <!-- 第三级：CVCe -->
+    <rect x="530" y="220" width="350" height="160" rx="16" fill="#2563eb"/>
+    <text x="705" y="290" text-anchor="middle" class="level">CVCe</text>
+    <text x="705" y="340" text-anchor="middle" class="example" fill="#bfdbfe">cake bike home</text>
+    
+    <!-- 第二级：CCVC/CVCC -->
+    <rect x="260" y="440" width="350" height="160" rx="16" fill="#f97316"/>
+    <text x="435" y="510" text-anchor="middle" class="level">CCVC / CVCC</text>
+    <text x="435" y="560" text-anchor="middle" class="example" fill="#fed7aa">stop jump hand</text>
+    
+    <!-- 第一级：CVC（基础） -->
+    <rect x="0" y="660" width="350" height="160" rx="16" fill="#22c55e"/>
+    <text x="175" y="730" text-anchor="middle" class="level">CVC</text>
+    <text x="175" y="780" text-anchor="middle" class="example" fill="#bbf7d0">cat dog pig</text>
+    
+    <!-- 连接虚线 -->
+    <path d="M350,740 L420,740 L420,540 L530,540" fill="none" stroke="#cbd5e1" stroke-width="5" stroke-dasharray="12,8"/>
+    <path d="M610,480 L680,480 L680,340 L800,340" fill="none" stroke="#cbd5e1" stroke-width="5" stroke-dasharray="12,8"/>
+    <path d="M880,280 L950,280 L950,120 L1050,120" fill="none" stroke="#cbd5e1" stroke-width="5" stroke-dasharray="12,8"/>
+    
+    <!-- "你在这里"标注 -->
+    <g transform="translate(175, 880)">
+      <polygon points="0,-20 -15,0 15,0" fill="#22c55e"/>
+      <text x="0" y="40" text-anchor="middle" class="marker">你在这里</text>
+    </g>
+  </g>
+  
+  <!-- 说明区域 -->
+  <g transform="translate(750, 1450)">
+    <rect x="-550" y="-70" width="1100" height="140" rx="20" fill="#eff6ff"/>
+    <text x="0" y="0" text-anchor="middle" class="highlight">CVC 掌握后，70% 的简单英文可自主拼读</text>
+    <text x="0" y="60" text-anchor="middle" class="tip">打好地基，进阶自然水到渠成</text>
+  </g>
+  
+  <!-- 学习路径 -->
+  <g transform="translate(750, 1700)">
+    <rect x="-600" y="-80" width="1200" height="160" rx="30" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+    <text x="0" y="-10" text-anchor="middle" class="tip">学习路径</text>
+    <text x="0" y="50" text-anchor="middle" font-size="36" fill="#1a1a1a" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">CVC → CVCC/CCVC → CVCe（魔法e）→ 复杂组合</text>
+  </g>
+  
+  <!-- 底部鼓励 -->
+  <g transform="translate(750, 1900)">
+    <rect x="-320" y="-45" width="640" height="90" rx="45" fill="#22c55e"/>
+    <text x="0" y="15" text-anchor="middle" font-size="40" fill="#fff" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">一步一个脚印，加油！</text>
+  </g>
+</svg>

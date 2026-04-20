@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <rect width="1500" height="2000" fill="#f8fafc"/>
+  <rect width="1500" height="10" fill="#3b82f6"/>
+  <text x="100" y="72" style="font-size:28px;fill:#93c5fd;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">01 / 08</text>
+  <text x="1400" y="72" text-anchor="end" style="font-size:28px;fill:#93c5fd;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">辅音连缀 Blends</text>
+  <text x="750" y="190" text-anchor="middle" style="font-size:80px;font-weight:700;fill:#0f172a;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">什么是辅音连缀？</text>
+  <rect x="100" y="215" width="1300" height="5" fill="#bfdbfe" rx="2"/>
+
+  <!-- Visual: B + L → bl -->
+  <rect x="80" y="270" width="330" height="330" rx="20" fill="#dbeafe"/>
+  <text x="245" y="490" text-anchor="middle" style="font-size:190px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">B</text>
+  <text x="495" y="470" text-anchor="middle" style="font-size:90px;fill:#93c5fd;font-family:-apple-system,sans-serif;">+</text>
+  <rect x="590" y="270" width="330" height="330" rx="20" fill="#dbeafe"/>
+  <text x="755" y="490" text-anchor="middle" style="font-size:190px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">L</text>
+  <text x="1010" y="470" text-anchor="middle" style="font-size:72px;fill:#3b82f6;font-family:-apple-system,sans-serif;">→</text>
+  <rect x="1090" y="250" width="310" height="370" rx="20" fill="#1d4ed8"/>
+  <text x="1245" y="490" text-anchor="middle" style="font-size:160px;font-weight:700;fill:#fff;font-family:-apple-system,sans-serif;">bl</text>
+
+  <text x="245" y="650" text-anchor="middle" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">辅音 1</text>
+  <text x="755" y="650" text-anchor="middle" style="font-size:30px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">辅音 2</text>
+  <text x="1245" y="675" text-anchor="middle" style="font-size:30px;fill:#3b82f6;font-family:-apple-system,'PingFang SC',sans-serif;">连缀！</text>
+
+  <!-- Definition -->
+  <rect x="100" y="710" width="1300" height="180" rx="16" fill="#dbeafe"/>
+  <text x="750" y="788" text-anchor="middle" style="font-size:42px;font-weight:600;fill:#1e3a8a;font-family:-apple-system,'PingFang SC',sans-serif;">两个辅音相邻，各自保留发音</text>
+  <text x="750" y="858" text-anchor="middle" style="font-size:36px;fill:#374151;font-family:-apple-system,'PingFang SC',sans-serif;">快速连续发出，融合成自然音节</text>
+
+  <!-- Three families -->
+  <text x="750" y="990" text-anchor="middle" style="font-size:46px;font-weight:700;fill:#0f172a;font-family:-apple-system,'PingFang SC',sans-serif;">三大连缀家族</text>
+
+  <rect x="100" y="1030" width="380" height="220" rx="16" fill="#fff"/>
+  <rect x="100" y="1030" width="10" height="220" rx="5" fill="#3b82f6"/>
+  <text x="290" y="1128" text-anchor="middle" style="font-size:52px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">L-Blends</text>
+  <text x="290" y="1208" text-anchor="middle" style="font-size:30px;fill:#6b7280;font-family:-apple-system,sans-serif;">bl  cl  fl  gl  pl  sl</text>
+
+  <rect x="560" y="1030" width="380" height="220" rx="16" fill="#fff"/>
+  <rect x="560" y="1030" width="10" height="220" rx="5" fill="#3b82f6"/>
+  <text x="750" y="1128" text-anchor="middle" style="font-size:52px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">R-Blends</text>
+  <text x="750" y="1208" text-anchor="middle" style="font-size:30px;fill:#6b7280;font-family:-apple-system,sans-serif;">br  cr  dr  fr  gr  pr  tr</text>
+
+  <rect x="1020" y="1030" width="380" height="220" rx="16" fill="#fff"/>
+  <rect x="1020" y="1030" width="10" height="220" rx="5" fill="#3b82f6"/>
+  <text x="1210" y="1128" text-anchor="middle" style="font-size:52px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">S-Blends</text>
+  <text x="1210" y="1208" text-anchor="middle" style="font-size:30px;fill:#6b7280;font-family:-apple-system,sans-serif;">sc  sk  sm  sn  sp  st  sw</text>
+
+  <!-- Key rule -->
+  <rect x="100" y="1340" width="1300" height="160" rx="16" fill="#1e3a8a"/>
+  <text x="750" y="1405" text-anchor="middle" style="font-size:34px;fill:#93c5fd;font-family:-apple-system,'PingFang SC',sans-serif;">学习口诀</text>
+  <text x="750" y="1478" text-anchor="middle" style="font-size:48px;font-weight:700;fill:#fff;font-family:-apple-system,'PingFang SC',sans-serif;">分开练 → 加速连 → 自然读</text>
+
+  <!-- Examples -->
+  <text x="750" y="1610" text-anchor="middle" style="font-size:44px;font-weight:600;fill:#0f172a;font-family:-apple-system,'PingFang SC',sans-serif;">快速入门示例</text>
+
+  <text x="250" y="1700" text-anchor="middle" style="font-size:54px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">black</text>
+  <text x="250" y="1760" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">黑色 (bl)</text>
+
+  <text x="750" y="1700" text-anchor="middle" style="font-size:54px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">frog</text>
+  <text x="750" y="1760" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">青蛙 (fr)</text>
+
+  <text x="1250" y="1700" text-anchor="middle" style="font-size:54px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">stop</text>
+  <text x="1250" y="1760" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">停止 (st)</text>
+
+  <rect x="0" y="1870" width="1500" height="130" fill="#dbeafe"/>
+  <text x="750" y="1952" text-anchor="middle" style="font-size:32px;fill:#1d4ed8;font-family:-apple-system,'PingFang SC',sans-serif;">自然拼读 Phonics · 辅音连缀专题</text>
+</svg>

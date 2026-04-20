@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <style>
+    .title { font: bold 80px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #1a1a1a; }
+    .subtitle { font: 36px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #666; }
+    .vowel-big { font: bold 120px -apple-system, "SF Pro Display", sans-serif; fill: #fff; }
+    .label { font: 36px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #333; }
+    .highlight { font: bold 44px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #2563eb; }
+  </style>
+  
+  <rect width="1500" height="2000" fill="#fafbfc"/>
+  
+  <!-- 标题 -->
+  <text x="750" y="180" text-anchor="middle" class="title">认识元音 V</text>
+  <text x="750" y="260" text-anchor="middle" class="subtitle">Vowel - 单词的"心脏"</text>
+  
+  <!-- 5个元音 - 两行布局 -->
+  <g transform="translate(750, 650)">
+    <!-- 第一行 A E I -->
+    <circle cx="-350" cy="0" r="130" fill="#ef4444"/>
+    <text x="-350" y="45" text-anchor="middle" class="vowel-big">A</text>
+    
+    <circle cx="0" cy="0" r="130" fill="#f97316"/>
+    <text x="0" y="45" text-anchor="middle" class="vowel-big">E</text>
+    
+    <circle cx="350" cy="0" r="130" fill="#eab308"/>
+    <text x="350" y="45" text-anchor="middle" class="vowel-big">I</text>
+  </g>
+  
+  <g transform="translate(750, 980)">
+    <!-- 第二行 O U -->
+    <circle cx="-180" cy="0" r="130" fill="#22c55e"/>
+    <text x="-180" y="45" text-anchor="middle" class="vowel-big">O</text>
+    
+    <circle cx="180" cy="0" r="130" fill="#2563eb"/>
+    <text x="180" y="45" text-anchor="middle" class="vowel-big">U</text>
+  </g>
+  
+  <!-- 说明 -->
+  <g transform="translate(750, 1350)">
+    <text x="0" y="0" text-anchor="middle" class="label">26个字母中，只有这5个是元音</text>
+    <text x="0" y="70" text-anchor="middle" class="label">元音可以拉长发音，是单词的核心</text>
+  </g>
+  
+  <!-- 底部强调 -->
+  <g transform="translate(750, 1700)">
+    <rect x="-380" y="-55" width="760" height="110" rx="55" fill="#eff6ff"/>
+    <text x="0" y="20" text-anchor="middle" class="highlight">CVC 中的元音发"短音"</text>
+  </g>
+</svg>

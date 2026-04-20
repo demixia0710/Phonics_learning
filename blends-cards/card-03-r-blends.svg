@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <rect width="1500" height="2000" fill="#f8fafc"/>
+  <rect width="1500" height="10" fill="#3b82f6"/>
+  <text x="100" y="72" style="font-size:28px;fill:#93c5fd;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">03 / 08</text>
+  <text x="1400" y="72" text-anchor="end" style="font-size:28px;fill:#93c5fd;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">辅音连缀 Blends</text>
+  <text x="750" y="188" text-anchor="middle" style="font-size:80px;font-weight:700;fill:#0f172a;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">R-Blends</text>
+  <text x="750" y="248" text-anchor="middle" style="font-size:40px;fill:#3b82f6;font-family:-apple-system,'PingFang SC',sans-serif;">br · cr · dr · fr · gr · pr · tr</text>
+  <rect x="100" y="272" width="1300" height="5" fill="#bfdbfe" rx="2"/>
+
+  <!-- Row 1: br, cr -->
+  <rect x="100" y="300" width="590" height="270" rx="16" fill="#fff"/>
+  <rect x="100" y="300" width="10" height="270" rx="5" fill="#3b82f6"/>
+  <text x="270" y="468" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">br</text>
+  <line x1="420" y1="318" x2="420" y2="552" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="555" y="430" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">bread</text>
+  <text x="555" y="498" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">面包</text>
+
+  <rect x="810" y="300" width="590" height="270" rx="16" fill="#fff"/>
+  <rect x="810" y="300" width="10" height="270" rx="5" fill="#3b82f6"/>
+  <text x="980" y="468" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">cr</text>
+  <line x1="1130" y1="318" x2="1130" y2="552" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="1265" y="430" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">crab</text>
+  <text x="1265" y="498" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">螃蟹</text>
+
+  <!-- Row 2: dr, fr -->
+  <rect x="100" y="600" width="590" height="270" rx="16" fill="#fff"/>
+  <rect x="100" y="600" width="10" height="270" rx="5" fill="#3b82f6"/>
+  <text x="270" y="768" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">dr</text>
+  <line x1="420" y1="618" x2="420" y2="852" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="555" y="730" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">drum</text>
+  <text x="555" y="798" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">鼓</text>
+
+  <rect x="810" y="600" width="590" height="270" rx="16" fill="#fff"/>
+  <rect x="810" y="600" width="10" height="270" rx="5" fill="#3b82f6"/>
+  <text x="980" y="768" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">fr</text>
+  <line x1="1130" y1="618" x2="1130" y2="852" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="1265" y="730" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">frog</text>
+  <text x="1265" y="798" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">青蛙</text>
+
+  <!-- Row 3: gr, pr -->
+  <rect x="100" y="900" width="590" height="270" rx="16" fill="#fff"/>
+  <rect x="100" y="900" width="10" height="270" rx="5" fill="#3b82f6"/>
+  <text x="270" y="1068" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">gr</text>
+  <line x1="420" y1="918" x2="420" y2="1152" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="555" y="1030" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">grass</text>
+  <text x="555" y="1098" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">草地</text>
+
+  <rect x="810" y="900" width="590" height="270" rx="16" fill="#fff"/>
+  <rect x="810" y="900" width="10" height="270" rx="5" fill="#3b82f6"/>
+  <text x="980" y="1068" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">pr</text>
+  <line x1="1130" y1="918" x2="1130" y2="1152" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="1265" y="1030" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">prize</text>
+  <text x="1265" y="1098" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">奖品</text>
+
+  <!-- Row 4: tr (full width) -->
+  <rect x="100" y="1200" width="1300" height="270" rx="16" fill="#dbeafe"/>
+  <rect x="100" y="1200" width="10" height="270" rx="5" fill="#1d4ed8"/>
+  <text x="360" y="1368" text-anchor="middle" style="font-size:110px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">tr</text>
+  <line x1="520" y1="1218" x2="520" y2="1452" stroke="#93c5fd" stroke-width="2"/>
+  <text x="900" y="1310" text-anchor="middle" style="font-size:54px;font-weight:600;fill:#0f172a;font-family:-apple-system,sans-serif;">tree  trip  truck  train</text>
+  <text x="900" y="1380" text-anchor="middle" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">树  旅行  卡车  火车</text>
+  <text x="900" y="1440" text-anchor="middle" style="font-size:32px;fill:#3b82f6;font-family:-apple-system,'PingFang SC',sans-serif;">tr 是 R-Blends 中最高频的连缀之一！</text>
+
+  <!-- Quick review -->
+  <rect x="100" y="1520" width="1300" height="60" rx="10" fill="#1e3a8a"/>
+  <text x="750" y="1561" text-anchor="middle" style="font-size:34px;font-weight:600;fill:#fff;font-family:-apple-system,'PingFang SC',sans-serif;">发音要点：r 紧跟前面的辅音，嘴型不停顿</text>
+
+  <text x="150" y="1660" style="font-size:40px;fill:#0f172a;font-family:-apple-system,sans-serif;">br: bring  bright  brown  brush</text>
+  <text x="150" y="1740" style="font-size:40px;fill:#0f172a;font-family:-apple-system,sans-serif;">cr: crown  cross  cry  cream</text>
+  <text x="150" y="1820" style="font-size:40px;fill:#0f172a;font-family:-apple-system,sans-serif;">dr/fr/gr/pr: drop  fresh  grow  proud</text>
+
+  <rect x="0" y="1870" width="1500" height="130" fill="#dbeafe"/>
+  <text x="750" y="1952" text-anchor="middle" style="font-size:32px;fill:#1d4ed8;font-family:-apple-system,'PingFang SC',sans-serif;">自然拼读 Phonics · 辅音连缀专题</text>
+</svg>

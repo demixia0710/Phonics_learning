@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <rect width="1500" height="2000" fill="#f8fafc"/>
+  <rect width="1500" height="10" fill="#3b82f6"/>
+  <text x="100" y="72" style="font-size:28px;fill:#93c5fd;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">06 / 08</text>
+  <text x="1400" y="72" text-anchor="end" style="font-size:28px;fill:#93c5fd;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">辅音连缀 Blends</text>
+  <text x="750" y="188" text-anchor="middle" style="font-size:80px;font-weight:700;fill:#0f172a;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">bl / br 高频词表</text>
+  <rect x="100" y="215" width="1300" height="5" fill="#bfdbfe" rx="2"/>
+
+  <!-- bl column header -->
+  <rect x="100" y="250" width="610" height="100" rx="14" fill="#1d4ed8"/>
+  <text x="405" y="316" text-anchor="middle" style="font-size:60px;font-weight:700;fill:#fff;font-family:-apple-system,sans-serif;">bl —</text>
+
+  <!-- br column header -->
+  <rect x="790" y="250" width="610" height="100" rx="14" fill="#1d4ed8"/>
+  <text x="1095" y="316" text-anchor="middle" style="font-size:60px;font-weight:700;fill:#fff;font-family:-apple-system,sans-serif;">br —</text>
+
+  <!-- Divider -->
+  <line x1="750" y1="240" x2="750" y2="1820" stroke="#e2e8f0" stroke-width="3"/>
+
+  <!-- bl words -->
+  <text x="405" y="430" text-anchor="middle" style="font-size:52px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">black</text>
+  <text x="405" y="488" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">黑色</text>
+
+  <text x="405" y="590" text-anchor="middle" style="font-size:52px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">blue</text>
+  <text x="405" y="648" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">蓝色</text>
+
+  <text x="405" y="750" text-anchor="middle" style="font-size:52px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">blend</text>
+  <text x="405" y="808" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">混合</text>
+
+  <text x="405" y="910" text-anchor="middle" style="font-size:52px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">blow</text>
+  <text x="405" y="968" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">吹</text>
+
+  <text x="405" y="1070" text-anchor="middle" style="font-size:52px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">blind</text>
+  <text x="405" y="1128" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">盲的</text>
+
+  <text x="405" y="1230" text-anchor="middle" style="font-size:52px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">block</text>
+  <text x="405" y="1288" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">积木块</text>
+
+  <text x="405" y="1390" text-anchor="middle" style="font-size:52px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">blink</text>
+  <text x="405" y="1448" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">眨眼</text>
+
+  <text x="405" y="1550" text-anchor="middle" style="font-size:52px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">blood</text>
+  <text x="405" y="1608" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">血液</text>
+
+  <!-- br words -->
+  <text x="1095" y="430" text-anchor="middle" style="font-size:52px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">bread</text>
+  <text x="1095" y="488" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">面包</text>
+
+  <text x="1095" y="590" text-anchor="middle" style="font-size:52px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">bring</text>
+  <text x="1095" y="648" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">带来</text>
+
+  <text x="1095" y="750" text-anchor="middle" style="font-size:52px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">bright</text>
+  <text x="1095" y="808" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">明亮的</text>
+
+  <text x="1095" y="910" text-anchor="middle" style="font-size:52px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">brown</text>
+  <text x="1095" y="968" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">棕色</text>
+
+  <text x="1095" y="1070" text-anchor="middle" style="font-size:52px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">brick</text>
+  <text x="1095" y="1128" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">砖块</text>
+
+  <text x="1095" y="1230" text-anchor="middle" style="font-size:52px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">brush</text>
+  <text x="1095" y="1288" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">刷子</text>
+
+  <text x="1095" y="1390" text-anchor="middle" style="font-size:52px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">break</text>
+  <text x="1095" y="1448" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">打破</text>
+
+  <text x="1095" y="1550" text-anchor="middle" style="font-size:52px;font-weight:600;fill:#1d4ed8;font-family:-apple-system,sans-serif;">brave</text>
+  <text x="1095" y="1608" text-anchor="middle" style="font-size:32px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">勇敢的</text>
+
+  <!-- Tip -->
+  <rect x="100" y="1680" width="1300" height="130" rx="14" fill="#1e3a8a"/>
+  <text x="750" y="1758" text-anchor="middle" style="font-size:38px;fill:#fff;font-family:-apple-system,'PingFang SC',sans-serif;">bl 发音嘴唇并拢，br 发音嘴唇微开</text>
+
+  <rect x="0" y="1870" width="1500" height="130" fill="#dbeafe"/>
+  <text x="750" y="1952" text-anchor="middle" style="font-size:32px;fill:#1d4ed8;font-family:-apple-system,'PingFang SC',sans-serif;">自然拼读 Phonics · 辅音连缀专题</text>
+</svg>

@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <style>
+    .title { font: bold 72px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #1a1a1a; }
+    .step-num { font: bold 56px -apple-system, "SF Pro Display", sans-serif; fill: #fff; }
+    .step-text { font: bold 44px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #1a1a1a; }
+    .example { font: bold 72px -apple-system, "SF Pro Display", sans-serif; }
+    .label { font: 32px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #666; }
+  </style>
+  
+  <rect width="1500" height="2000" fill="#fafbfc"/>
+  
+  <text x="750" y="140" text-anchor="middle" class="title">魔法e的发音规则</text>
+  
+  <!-- 规则1 -->
+  <g transform="translate(750, 380)">
+    <rect x="-550" y="-100" width="1100" height="200" rx="30" fill="#fef3c7"/>
+    <circle cx="-450" cy="0" r="60" fill="#f59e0b"/>
+    <text x="-450" y="20" text-anchor="middle" class="step-num">1</text>
+    <text x="50" y="15" text-anchor="middle" class="step-text">e 不发音</text>
+    <text x="50" y="70" text-anchor="middle" class="label">结尾的 e 是静音的 (silent e)</text>
+  </g>
+  
+  <!-- 规则2 -->
+  <g transform="translate(750, 650)">
+    <rect x="-550" y="-100" width="1100" height="200" rx="30" fill="#dbeafe"/>
+    <circle cx="-450" cy="0" r="60" fill="#2563eb"/>
+    <text x="-450" y="20" text-anchor="middle" class="step-num">2</text>
+    <text x="50" y="15" text-anchor="middle" class="step-text">元音变长</text>
+    <text x="50" y="70" text-anchor="middle" class="label">中间的元音读字母本音 (long vowel)</text>
+  </g>
+  
+  <!-- 规则3 -->
+  <g transform="translate(750, 920)">
+    <rect x="-550" y="-100" width="1100" height="200" rx="30" fill="#dcfce7"/>
+    <circle cx="-450" cy="0" r="60" fill="#22c55e"/>
+    <text x="-450" y="20" text-anchor="middle" class="step-num">3</text>
+    <text x="50" y="15" text-anchor="middle" class="step-text">隔一个辅音</text>
+    <text x="50" y="70" text-anchor="middle" class="label">e 和元音之间隔一个辅音字母</text>
+  </g>
+  
+  <!-- 示例拆解 make -->
+  <g transform="translate(750, 1250)">
+    <text x="0" y="-80" text-anchor="middle" font-size="40" fill="#666" font-family="-apple-system, PingFang SC, sans-serif">示例拆解</text>
+    
+    <!-- m -->
+    <g transform="translate(-300, 50)">
+      <rect x="-70" y="-70" width="140" height="140" rx="20" fill="#64748b"/>
+      <text x="0" y="25" text-anchor="middle" class="example" fill="#fff">m</text>
+      <text x="0" y="120" text-anchor="middle" class="label">辅音</text>
+    </g>
+    
+    <!-- a -->
+    <g transform="translate(-100, 50)">
+      <rect x="-70" y="-70" width="140" height="140" rx="20" fill="#2563eb"/>
+      <text x="0" y="25" text-anchor="middle" class="example" fill="#fff">a</text>
+      <text x="0" y="120" text-anchor="middle" class="label" fill="#2563eb">元音→长</text>
+    </g>
+    
+    <!-- k -->
+    <g transform="translate(100, 50)">
+      <rect x="-70" y="-70" width="140" height="140" rx="20" fill="#64748b"/>
+      <text x="0" y="25" text-anchor="middle" class="example" fill="#fff">k</text>
+      <text x="0" y="120" text-anchor="middle" class="label">辅音</text>
+    </g>
+    
+    <!-- e -->
+    <g transform="translate(300, 50)">
+      <rect x="-70" y="-70" width="140" height="140" rx="20" fill="#8b5cf6"/>
+      <text x="0" y="25" text-anchor="middle" class="example" fill="#fff">e</text>
+      <text x="0" y="120" text-anchor="middle" class="label" fill="#8b5cf6">魔法e</text>
+    </g>
+  </g>
+  
+  <!-- 发音结果 -->
+  <g transform="translate(750, 1600)">
+    <text x="0" y="0" text-anchor="middle" font-size="80" fill="#1a1a1a" font-weight="bold" font-family="-apple-system, SF Pro Display, sans-serif">make → /meɪk/</text>
+  </g>
+  
+  <!-- 底部总结 -->
+  <g transform="translate(750, 1800)">
+    <rect x="-500" y="-60" width="1000" height="120" rx="60" fill="#8b5cf6"/>
+    <text x="0" y="18" text-anchor="middle" font-size="44" fill="#fff" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">e 不发音，但有魔法力量 ✨</text>
+  </g>
+</svg>

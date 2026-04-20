@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <style>
+    .title { font: bold 72px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #1a1a1a; }
+    .question { font: bold 52px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #1a1a1a; }
+    .answer { font: bold 44px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; }
+    .tip { font: 36px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #666; }
+  </style>
+  
+  <rect width="1500" height="2000" fill="#fafbfc"/>
+  
+  <text x="750" y="140" text-anchor="middle" class="title">如何判断短/长元音？</text>
+  
+  <!-- 流程图 -->
+  <g transform="translate(750, 400)">
+    <!-- 起点 -->
+    <rect x="-200" y="-60" width="400" height="120" rx="60" fill="#64748b"/>
+    <text x="0" y="20" text-anchor="middle" font-size="44" fill="#fff" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">看单词结尾</text>
+  </g>
+  
+  <!-- 箭头向下 -->
+  <g transform="translate(750, 520)">
+    <line x1="0" y1="0" x2="0" y2="80" stroke="#64748b" stroke-width="6"/>
+    <polygon points="0,80 -15,60 15,60" fill="#64748b"/>
+  </g>
+  
+  <!-- 判断问题 -->
+  <g transform="translate(750, 700)">
+    <polygon points="0,-100 200,0 0,100 -200,0" fill="#f59e0b"/>
+    <text x="0" y="15" text-anchor="middle" class="question" fill="#fff">有 e 吗？</text>
+  </g>
+  
+  <!-- 左分支 - 没有e -->
+  <g transform="translate(400, 700)">
+    <line x1="150" y1="0" x2="50" y2="0" stroke="#64748b" stroke-width="4"/>
+    <line x1="50" y1="0" x2="50" y2="150" stroke="#64748b" stroke-width="4"/>
+    <text x="100" y="-20" text-anchor="middle" font-size="32" fill="#666" font-family="-apple-system, PingFang SC, sans-serif">没有</text>
+  </g>
+  
+  <g transform="translate(400, 950)">
+    <rect x="-150" y="-60" width="300" height="120" rx="20" fill="#fee2e2" stroke="#ef4444" stroke-width="4"/>
+    <text x="0" y="20" text-anchor="middle" class="answer" fill="#ef4444">短元音</text>
+  </g>
+  
+  <!-- 右分支 - 有e -->
+  <g transform="translate(1100, 700)">
+    <line x1="-150" y1="0" x2="-50" y2="0" stroke="#64748b" stroke-width="4"/>
+    <line x1="-50" y1="0" x2="-50" y2="150" stroke="#64748b" stroke-width="4"/>
+    <text x="-100" y="-20" text-anchor="middle" font-size="32" fill="#666" font-family="-apple-system, PingFang SC, sans-serif">有</text>
+  </g>
+  
+  <g transform="translate(1100, 950)">
+    <rect x="-150" y="-60" width="300" height="120" rx="20" fill="#dbeafe" stroke="#2563eb" stroke-width="4"/>
+    <text x="0" y="20" text-anchor="middle" class="answer" fill="#2563eb">长元音</text>
+  </g>
+  
+  <!-- 口诀 -->
+  <g transform="translate(750, 1250)">
+    <rect x="-450" y="-80" width="900" height="160" rx="30" fill="#f5f3ff" stroke="#8b5cf6" stroke-width="4"/>
+    <text x="0" y="-10" text-anchor="middle" font-size="36" fill="#666" font-family="-apple-system, PingFang SC, sans-serif">判断口诀</text>
+    <text x="0" y="55" text-anchor="middle" font-size="52" fill="#8b5cf6" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">"结尾有e，元音喊名"</text>
+  </g>
+  
+  <!-- 解释 -->
+  <g transform="translate(750, 1500)">
+    <text x="0" y="0" text-anchor="middle" class="tip">喊名 = 读字母本身的音</text>
+    <text x="0" y="60" text-anchor="middle" font-size="44" fill="#1a1a1a" font-weight="bold" font-family="-apple-system, SF Pro Display, sans-serif">A /eɪ/  E /iː/  I /aɪ/  O /oʊ/  U /juː/</text>
+  </g>
+  
+  <!-- 底部总结 -->
+  <g transform="translate(750, 1800)">
+    <rect x="-500" y="-60" width="1000" height="120" rx="60" fill="#22c55e"/>
+    <text x="0" y="18" text-anchor="middle" font-size="44" fill="#fff" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">有 e 就长，无 e 就短！</text>
+  </g>
+</svg>

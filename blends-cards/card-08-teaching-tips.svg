@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <rect width="1500" height="2000" fill="#f8fafc"/>
+  <rect width="1500" height="10" fill="#3b82f6"/>
+  <text x="100" y="72" style="font-size:28px;fill:#93c5fd;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">08 / 08</text>
+  <text x="1400" y="72" text-anchor="end" style="font-size:28px;fill:#93c5fd;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">辅音连缀 Blends</text>
+  <text x="750" y="188" text-anchor="middle" style="font-size:80px;font-weight:700;fill:#0f172a;font-family:-apple-system,'PingFang SC','Noto Sans SC',sans-serif;">教孩子连读的妙招</text>
+  <rect x="100" y="215" width="1300" height="5" fill="#bfdbfe" rx="2"/>
+
+  <!-- Tip 1 -->
+  <rect x="100" y="260" width="1300" height="320" rx="20" fill="#fff"/>
+  <rect x="100" y="260" width="10" height="320" rx="5" fill="#3b82f6"/>
+  <!-- Icon: circle with number -->
+  <circle cx="230" cy="420" r="70" fill="#dbeafe"/>
+  <text x="230" y="440" text-anchor="middle" style="font-size:60px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">1</text>
+  <!-- Content -->
+  <text x="350" y="330" style="font-size:48px;font-weight:700;fill:#0f172a;font-family:-apple-system,'PingFang SC',sans-serif;">手指点读法</text>
+  <text x="350" y="398" style="font-size:36px;fill:#374151;font-family:-apple-system,'PingFang SC',sans-serif;">左手指指 b，右手指指 l</text>
+  <text x="350" y="452" style="font-size:36px;fill:#374151;font-family:-apple-system,'PingFang SC',sans-serif;">嘴巴跟着手指顺序发音</text>
+  <text x="350" y="506" style="font-size:34px;fill:#3b82f6;font-family:-apple-system,'PingFang SC',sans-serif;">两根手指逐渐靠拢 = 两音逐渐融合</text>
+  <text x="350" y="556" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">适合年龄：3-6 岁</text>
+
+  <!-- Tip 2 -->
+  <rect x="100" y="620" width="1300" height="320" rx="20" fill="#fff"/>
+  <rect x="100" y="620" width="10" height="320" rx="5" fill="#3b82f6"/>
+  <circle cx="230" cy="780" r="70" fill="#dbeafe"/>
+  <text x="230" y="800" text-anchor="middle" style="font-size:60px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">2</text>
+  <text x="350" y="690" style="font-size:48px;font-weight:700;fill:#0f172a;font-family:-apple-system,'PingFang SC',sans-serif;">词族批量法</text>
+  <text x="350" y="758" style="font-size:36px;fill:#374151;font-family:-apple-system,'PingFang SC',sans-serif;">一次学一个连缀的所有常见词</text>
+  <text x="350" y="812" style="font-size:36px;fill:#374151;font-family:-apple-system,'PingFang SC',sans-serif;">bl: blue black block blind blink blow</text>
+  <text x="350" y="866" style="font-size:34px;fill:#3b82f6;font-family:-apple-system,'PingFang SC',sans-serif;">看到 bl 开头就已经会一半了！</text>
+  <text x="350" y="916" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">效率提升 3-5 倍</text>
+
+  <!-- Tip 3 -->
+  <rect x="100" y="980" width="1300" height="320" rx="20" fill="#fff"/>
+  <rect x="100" y="980" width="10" height="320" rx="5" fill="#3b82f6"/>
+  <circle cx="230" cy="1140" r="70" fill="#dbeafe"/>
+  <text x="230" y="1160" text-anchor="middle" style="font-size:60px;font-weight:700;fill:#1d4ed8;font-family:-apple-system,sans-serif;">3</text>
+  <text x="350" y="1050" style="font-size:48px;font-weight:700;fill:#0f172a;font-family:-apple-system,'PingFang SC',sans-serif;">游戏找词法</text>
+  <text x="350" y="1118" style="font-size:36px;fill:#374151;font-family:-apple-system,'PingFang SC',sans-serif;">在绘本/路牌/包装上找连缀词</text>
+  <text x="350" y="1172" style="font-size:36px;fill:#374151;font-family:-apple-system,'PingFang SC',sans-serif;">找到就画圈，记录战果</text>
+  <text x="350" y="1226" style="font-size:34px;fill:#3b82f6;font-family:-apple-system,'PingFang SC',sans-serif;">真实语境中的连缀记忆最牢固</text>
+  <text x="350" y="1276" style="font-size:34px;fill:#6b7280;font-family:-apple-system,'PingFang SC',sans-serif;">适合亲子互动，建立成就感</text>
+
+  <!-- Weekly plan -->
+  <rect x="100" y="1360" width="1300" height="80" rx="14" fill="#1e3a8a"/>
+  <text x="750" y="1412" text-anchor="middle" style="font-size:38px;font-weight:700;fill:#fff;font-family:-apple-system,'PingFang SC',sans-serif;">四周学习路线图</text>
+
+  <rect x="100" y="1460" width="290" height="260" rx="14" fill="#dbeafe"/>
+  <text x="245" y="1510" text-anchor="middle" style="font-size:34px;font-weight:700;fill:#1e3a8a;font-family:-apple-system,'PingFang SC',sans-serif;">第1周</text>
+  <text x="245" y="1570" text-anchor="middle" style="font-size:30px;fill:#1d4ed8;font-family:-apple-system,sans-serif;">L-Blends</text>
+  <text x="245" y="1620" text-anchor="middle" style="font-size:28px;fill:#374151;font-family:-apple-system,sans-serif;">bl cl fl</text>
+  <text x="245" y="1670" text-anchor="middle" style="font-size:28px;fill:#374151;font-family:-apple-system,sans-serif;">gl pl sl</text>
+
+  <rect x="410" y="1460" width="290" height="260" rx="14" fill="#dbeafe"/>
+  <text x="555" y="1510" text-anchor="middle" style="font-size:34px;font-weight:700;fill:#1e3a8a;font-family:-apple-system,'PingFang SC',sans-serif;">第2周</text>
+  <text x="555" y="1570" text-anchor="middle" style="font-size:30px;fill:#1d4ed8;font-family:-apple-system,sans-serif;">R-Blends</text>
+  <text x="555" y="1620" text-anchor="middle" style="font-size:28px;fill:#374151;font-family:-apple-system,sans-serif;">br cr dr</text>
+  <text x="555" y="1670" text-anchor="middle" style="font-size:28px;fill:#374151;font-family:-apple-system,sans-serif;">fr gr pr tr</text>
+
+  <rect x="720" y="1460" width="290" height="260" rx="14" fill="#dbeafe"/>
+  <text x="865" y="1510" text-anchor="middle" style="font-size:34px;font-weight:700;fill:#1e3a8a;font-family:-apple-system,'PingFang SC',sans-serif;">第3周</text>
+  <text x="865" y="1570" text-anchor="middle" style="font-size:30px;fill:#1d4ed8;font-family:-apple-system,sans-serif;">S-Blends</text>
+  <text x="865" y="1620" text-anchor="middle" style="font-size:28px;fill:#374151;font-family:-apple-system,sans-serif;">sc sk sm</text>
+  <text x="865" y="1670" text-anchor="middle" style="font-size:28px;fill:#374151;font-family:-apple-system,sans-serif;">sn sp st sw</text>
+
+  <rect x="1110" y="1460" width="290" height="260" rx="14" fill="#1d4ed8"/>
+  <text x="1255" y="1510" text-anchor="middle" style="font-size:34px;font-weight:700;fill:#fff;font-family:-apple-system,'PingFang SC',sans-serif;">第4周</text>
+  <text x="1255" y="1570" text-anchor="middle" style="font-size:30px;fill:#bfdbfe;font-family:-apple-system,'PingFang SC',sans-serif;">综合练习</text>
+  <text x="1255" y="1620" text-anchor="middle" style="font-size:28px;fill:#fff;font-family:-apple-system,'PingFang SC',sans-serif;">混合拼读</text>
+  <text x="1255" y="1670" text-anchor="middle" style="font-size:28px;fill:#fff;font-family:-apple-system,'PingFang SC',sans-serif;">绘本应用</text>
+
+  <!-- Final message -->
+  <rect x="100" y="1780" width="1300" height="70" rx="14" fill="#dbeafe"/>
+  <text x="750" y="1825" text-anchor="middle" style="font-size:36px;fill:#1e3a8a;font-family:-apple-system,'PingFang SC',sans-serif;">掌握连缀，英语拼读能力跃升一个台阶！</text>
+
+  <rect x="0" y="1870" width="1500" height="130" fill="#dbeafe"/>
+  <text x="750" y="1952" text-anchor="middle" style="font-size:32px;fill:#1d4ed8;font-family:-apple-system,'PingFang SC',sans-serif;">自然拼读 Phonics · 辅音连缀专题</text>
+</svg>

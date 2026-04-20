@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <style>
+    .title { font: bold 80px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #1a1a1a; }
+    .vowel { font: bold 72px -apple-system, "SF Pro Display", sans-serif; fill: #fff; }
+    .phonetic { font: 44px -apple-system, "SF Pro Display", sans-serif; fill: #666; }
+    .word { font: bold 44px -apple-system, "SF Pro Display", sans-serif; fill: #1a1a1a; }
+    .meaning { font: 36px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #666; }
+    .tip { font: 32px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #64748b; }
+  </style>
+  
+  <rect width="1500" height="2000" fill="#fafbfc"/>
+  
+  <text x="750" y="150" text-anchor="middle" class="title">5个短元音发音</text>
+  
+  <!-- A 行 -->
+  <g transform="translate(0, 350)">
+    <circle cx="150" cy="0" r="75" fill="#ef4444"/>
+    <text x="150" y="25" text-anchor="middle" class="vowel">a</text>
+    <text x="300" y="15" class="phonetic">/æ/</text>
+    <text x="480" y="15" class="word">cat</text>
+    <text x="620" y="15" class="meaning">猫</text>
+    <text x="800" y="15" class="word">bat</text>
+    <text x="950" y="15" class="meaning">蝙蝠</text>
+    <text x="1150" y="15" class="word">hat</text>
+    <text x="1320" y="15" class="meaning">帽子</text>
+  </g>
+  
+  <!-- E 行 -->
+  <g transform="translate(0, 570)">
+    <circle cx="150" cy="0" r="75" fill="#f97316"/>
+    <text x="150" y="25" text-anchor="middle" class="vowel">e</text>
+    <text x="300" y="15" class="phonetic">/e/</text>
+    <text x="480" y="15" class="word">bed</text>
+    <text x="620" y="15" class="meaning">床</text>
+    <text x="800" y="15" class="word">red</text>
+    <text x="950" y="15" class="meaning">红色</text>
+    <text x="1150" y="15" class="word">pen</text>
+    <text x="1320" y="15" class="meaning">笔</text>
+  </g>
+  
+  <!-- I 行 -->
+  <g transform="translate(0, 790)">
+    <circle cx="150" cy="0" r="75" fill="#eab308"/>
+    <text x="150" y="25" text-anchor="middle" class="vowel">i</text>
+    <text x="300" y="15" class="phonetic">/ɪ/</text>
+    <text x="480" y="15" class="word">pig</text>
+    <text x="620" y="15" class="meaning">猪</text>
+    <text x="800" y="15" class="word">big</text>
+    <text x="950" y="15" class="meaning">大</text>
+    <text x="1150" y="15" class="word">sit</text>
+    <text x="1320" y="15" class="meaning">坐</text>
+  </g>
+  
+  <!-- O 行 -->
+  <g transform="translate(0, 1010)">
+    <circle cx="150" cy="0" r="75" fill="#22c55e"/>
+    <text x="150" y="25" text-anchor="middle" class="vowel">o</text>
+    <text x="300" y="15" class="phonetic">/ɒ/</text>
+    <text x="480" y="15" class="word">dog</text>
+    <text x="620" y="15" class="meaning">狗</text>
+    <text x="800" y="15" class="word">hot</text>
+    <text x="950" y="15" class="meaning">热</text>
+    <text x="1150" y="15" class="word">box</text>
+    <text x="1320" y="15" class="meaning">盒子</text>
+  </g>
+  
+  <!-- U 行 -->
+  <g transform="translate(0, 1230)">
+    <circle cx="150" cy="0" r="75" fill="#2563eb"/>
+    <text x="150" y="25" text-anchor="middle" class="vowel">u</text>
+    <text x="300" y="15" class="phonetic">/ʌ/</text>
+    <text x="480" y="15" class="word">sun</text>
+    <text x="620" y="15" class="meaning">太阳</text>
+    <text x="800" y="15" class="word">cup</text>
+    <text x="950" y="15" class="meaning">杯子</text>
+    <text x="1150" y="15" class="word">bus</text>
+    <text x="1320" y="15" class="meaning">公交</text>
+  </g>
+  
+  <!-- 分隔线 -->
+  <line x1="100" y1="1420" x2="1400" y2="1420" stroke="#e2e8f0" stroke-width="2"/>
+  
+  <!-- 底部提示 -->
+  <g transform="translate(750, 1600)">
+    <text x="0" y="0" text-anchor="middle" class="tip">记忆口诀</text>
+    <text x="0" y="70" text-anchor="middle" class="tip">Apple 苹果 · Egg 鸡蛋 · Insect 昆虫</text>
+    <text x="0" y="140" text-anchor="middle" class="tip">Octopus 章鱼 · Umbrella 雨伞</text>
+  </g>
+  
+  <g transform="translate(750, 1880)">
+    <rect x="-350" y="-45" width="700" height="90" rx="45" fill="#f1f5f9"/>
+    <text x="0" y="15" text-anchor="middle" font-size="36" fill="#64748b" font-family="-apple-system, PingFang SC, sans-serif">短元音发音短促有力，不拖长！</text>
+  </g>
+</svg>

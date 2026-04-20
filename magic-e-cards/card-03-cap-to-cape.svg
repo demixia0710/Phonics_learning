@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <style>
+    .title { font: bold 72px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #1a1a1a; }
+    .word { font: bold 140px -apple-system, "SF Pro Display", sans-serif; }
+    .phonetic { font: 48px -apple-system, "SF Pro Display", sans-serif; fill: #666; }
+    .meaning { font: 44px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #333; }
+    .magic-e { font: bold 120px -apple-system, "SF Pro Display", sans-serif; fill: #8b5cf6; }
+    .arrow { font: 80px sans-serif; fill: #8b5cf6; }
+  </style>
+  
+  <rect width="1500" height="2000" fill="#fafbfc"/>
+  
+  <text x="750" y="140" text-anchor="middle" class="title">cap → cape 的变化</text>
+  
+  <!-- cap 区域 -->
+  <g transform="translate(380, 550)">
+    <rect x="-280" y="-250" width="560" height="500" rx="40" fill="#fee2e2"/>
+    <text x="0" y="-80" text-anchor="middle" class="word" fill="#ef4444">cap</text>
+    <text x="0" y="20" text-anchor="middle" class="phonetic">/kæp/</text>
+    <text x="0" y="100" text-anchor="middle" class="meaning">帽子</text>
+    <text x="0" y="180" text-anchor="middle" font-size="100">🧢</text>
+  </g>
+  
+  <!-- 魔法变化箭头 -->
+  <g transform="translate(750, 550)">
+    <text x="0" y="-50" text-anchor="middle" font-size="60">✨</text>
+    <text x="0" y="30" text-anchor="middle" class="arrow">→</text>
+    <text x="0" y="100" text-anchor="middle" class="magic-e">+e</text>
+    <text x="0" y="180" text-anchor="middle" font-size="60">✨</text>
+  </g>
+  
+  <!-- cape 区域 -->
+  <g transform="translate(1120, 550)">
+    <rect x="-280" y="-250" width="560" height="500" rx="40" fill="#dbeafe"/>
+    <text x="0" y="-80" text-anchor="middle" class="word" fill="#2563eb">cape</text>
+    <text x="0" y="20" text-anchor="middle" class="phonetic">/keɪp/</text>
+    <text x="0" y="100" text-anchor="middle" class="meaning">斗篷</text>
+    <text x="0" y="180" text-anchor="middle" font-size="100">🦸</text>
+  </g>
+  
+  <!-- 发音变化解释 -->
+  <g transform="translate(750, 1050)">
+    <rect x="-550" y="-60" width="1100" height="120" rx="20" fill="#f5f3ff"/>
+    <text x="0" y="20" text-anchor="middle" font-size="48" fill="#8b5cf6" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">a 的发音：/æ/ → /eɪ/</text>
+  </g>
+  
+  <!-- 字母拆解 -->
+  <g transform="translate(750, 1350)">
+    <text x="0" y="-60" text-anchor="middle" font-size="40" fill="#666" font-family="-apple-system, PingFang SC, sans-serif">字母拆解</text>
+    
+    <!-- cap：c(-525) a(-375) p(-225)，箭头(-75)，cape：c(75) a(225) p(375) e(525) -->
+    <!-- 总宽1170px，在750px中心两侧各585px，完整居中 -->
+
+    <!-- cap -->
+    <g transform="translate(-525, 50)">
+      <rect x="-60" y="-50" width="120" height="100" rx="10" fill="#64748b"/>
+      <text x="0" y="20" text-anchor="middle" font-size="56" fill="#fff" font-weight="bold">c</text>
+    </g>
+    <g transform="translate(-375, 50)">
+      <rect x="-60" y="-50" width="120" height="100" rx="10" fill="#ef4444"/>
+      <text x="0" y="20" text-anchor="middle" font-size="56" fill="#fff" font-weight="bold">a</text>
+    </g>
+    <g transform="translate(-225, 50)">
+      <rect x="-60" y="-50" width="120" height="100" rx="10" fill="#64748b"/>
+      <text x="0" y="20" text-anchor="middle" font-size="56" fill="#fff" font-weight="bold">p</text>
+    </g>
+    
+    <!-- 箭头 -->
+    <text x="-75" y="60" text-anchor="middle" font-size="48" fill="#8b5cf6">→</text>
+    
+    <!-- cape -->
+    <g transform="translate(75, 50)">
+      <rect x="-60" y="-50" width="120" height="100" rx="10" fill="#64748b"/>
+      <text x="0" y="20" text-anchor="middle" font-size="56" fill="#fff" font-weight="bold">c</text>
+    </g>
+    <g transform="translate(225, 50)">
+      <rect x="-60" y="-50" width="120" height="100" rx="10" fill="#2563eb"/>
+      <text x="0" y="20" text-anchor="middle" font-size="56" fill="#fff" font-weight="bold">a</text>
+    </g>
+    <g transform="translate(375, 50)">
+      <rect x="-60" y="-50" width="120" height="100" rx="10" fill="#64748b"/>
+      <text x="0" y="20" text-anchor="middle" font-size="56" fill="#fff" font-weight="bold">p</text>
+    </g>
+    <g transform="translate(525, 50)">
+      <rect x="-60" y="-50" width="120" height="100" rx="10" fill="#8b5cf6"/>
+      <text x="0" y="20" text-anchor="middle" font-size="56" fill="#fff" font-weight="bold">e</text>
+    </g>
+  </g>
+  
+  <!-- 底部总结 -->
+  <g transform="translate(750, 1780)">
+    <rect x="-500" y="-70" width="1000" height="140" rx="70" fill="#1a1a1a"/>
+    <text x="0" y="25" text-anchor="middle" font-size="44" fill="#fff" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">只加一个 e，意思完全不同！</text>
+  </g>
+</svg>

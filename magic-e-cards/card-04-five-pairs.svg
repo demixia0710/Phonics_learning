@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <style>
+    .title { font: bold 72px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #1a1a1a; }
+    .word-short { font: bold 56px -apple-system, "SF Pro Display", sans-serif; fill: #ef4444; }
+    .word-long { font: bold 56px -apple-system, "SF Pro Display", sans-serif; fill: #2563eb; }
+    .meaning { font: 32px -apple-system, "PingFang SC", "Noto Sans SC", sans-serif; fill: #666; }
+    .vowel { font: bold 44px -apple-system, "SF Pro Display", sans-serif; }
+  </style>
+  
+  <rect width="1500" height="2000" fill="#fafbfc"/>
+  
+  <text x="750" y="140" text-anchor="middle" class="title">5组魔法e对比</text>
+  
+  <!-- 表头 -->
+  <g transform="translate(750, 280)">
+    <rect x="-600" y="-50" width="400" height="80" rx="15" fill="#fee2e2"/>
+    <text x="-400" y="15" text-anchor="middle" font-size="40" fill="#ef4444" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">短元音</text>
+    <rect x="200" y="-50" width="400" height="80" rx="15" fill="#dbeafe"/>
+    <text x="400" y="15" text-anchor="middle" font-size="40" fill="#2563eb" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">长元音</text>
+  </g>
+  
+  <!-- a 组 -->
+  <g transform="translate(750, 480)">
+    <circle cx="-600" cy="0" r="50" fill="#ef4444"/>
+    <text x="-600" y="18" text-anchor="middle" class="vowel" fill="#fff">a</text>
+    <text x="-400" y="15" text-anchor="middle" class="word-short">cap</text>
+    <text x="-400" y="60" text-anchor="middle" class="meaning">帽子 🧢</text>
+    <text x="0" y="15" text-anchor="middle" font-size="48" fill="#8b5cf6">→</text>
+    <text x="400" y="15" text-anchor="middle" class="word-long">cape</text>
+    <text x="400" y="60" text-anchor="middle" class="meaning">斗篷 🦸</text>
+  </g>
+  
+  <!-- e 组 -->
+  <g transform="translate(750, 680)">
+    <circle cx="-600" cy="0" r="50" fill="#f97316"/>
+    <text x="-600" y="18" text-anchor="middle" class="vowel" fill="#fff">e</text>
+    <text x="-400" y="15" text-anchor="middle" class="word-short">pet</text>
+    <text x="-400" y="60" text-anchor="middle" class="meaning">宠物 🐕</text>
+    <text x="0" y="15" text-anchor="middle" font-size="48" fill="#8b5cf6">→</text>
+    <text x="400" y="15" text-anchor="middle" class="word-long">Pete</text>
+    <text x="400" y="60" text-anchor="middle" class="meaning">人名 👦</text>
+  </g>
+  
+  <!-- i 组 -->
+  <g transform="translate(750, 880)">
+    <circle cx="-600" cy="0" r="50" fill="#eab308"/>
+    <text x="-600" y="18" text-anchor="middle" class="vowel" fill="#fff">i</text>
+    <text x="-400" y="15" text-anchor="middle" class="word-short">kit</text>
+    <text x="-400" y="60" text-anchor="middle" class="meaning">工具包 🧰</text>
+    <text x="0" y="15" text-anchor="middle" font-size="48" fill="#8b5cf6">→</text>
+    <text x="400" y="15" text-anchor="middle" class="word-long">kite</text>
+    <text x="400" y="60" text-anchor="middle" class="meaning">风筝 🪁</text>
+  </g>
+  
+  <!-- o 组 -->
+  <g transform="translate(750, 1080)">
+    <circle cx="-600" cy="0" r="50" fill="#22c55e"/>
+    <text x="-600" y="18" text-anchor="middle" class="vowel" fill="#fff">o</text>
+    <text x="-400" y="15" text-anchor="middle" class="word-short">hop</text>
+    <text x="-400" y="60" text-anchor="middle" class="meaning">跳 🐰</text>
+    <text x="0" y="15" text-anchor="middle" font-size="48" fill="#8b5cf6">→</text>
+    <text x="400" y="15" text-anchor="middle" class="word-long">hope</text>
+    <text x="400" y="60" text-anchor="middle" class="meaning">希望 🌟</text>
+  </g>
+  
+  <!-- u 组 -->
+  <g transform="translate(750, 1280)">
+    <circle cx="-600" cy="0" r="50" fill="#2563eb"/>
+    <text x="-600" y="18" text-anchor="middle" class="vowel" fill="#fff">u</text>
+    <text x="-400" y="15" text-anchor="middle" class="word-short">cut</text>
+    <text x="-400" y="60" text-anchor="middle" class="meaning">切 ✂️</text>
+    <text x="0" y="15" text-anchor="middle" font-size="48" fill="#8b5cf6">→</text>
+    <text x="400" y="15" text-anchor="middle" class="word-long">cute</text>
+    <text x="400" y="60" text-anchor="middle" class="meaning">可爱 🥰</text>
+  </g>
+  
+  <!-- 规律总结 -->
+  <g transform="translate(750, 1550)">
+    <rect x="-550" y="-60" width="1100" height="120" rx="30" fill="#f5f3ff"/>
+    <text x="0" y="20" text-anchor="middle" font-size="44" fill="#8b5cf6" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">规律：5个元音都适用魔法e规则</text>
+  </g>
+  
+  <!-- 底部提示 -->
+  <g transform="translate(750, 1800)">
+    <rect x="-450" y="-60" width="900" height="120" rx="60" fill="#2563eb"/>
+    <text x="0" y="20" text-anchor="middle" font-size="44" fill="#fff" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">长元音 = 读字母本身的名字</text>
+  </g>
+</svg>
