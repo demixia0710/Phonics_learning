@@ -1,4 +1,5 @@
 import { useMemo, useState, useCallback } from "react";
+import PhonicsSpinner from "./PhonicsSpinner";
 
 const wordImages = {
   cat: "🐱", bag: "🎒", map: "🗺️", hat: "👒", fan: "🌀",
@@ -367,6 +368,8 @@ export default function App() {
           {feedback.text}
         </div>
       </section>
+
+      <PhonicsSpinner />
 
       <footer>小建议：每天练习 10 分钟，连续 2 周会看到明显进步。</footer>
 

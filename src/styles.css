@@ -463,3 +463,140 @@ footer {
 .word-card-text .highlight {
   color: #e03131;
 }
+
+/* ── Phonics Spinner ──────────────────────────────────────────────────────── */
+
+.sp-section {
+  margin-top: 20px;
+  border-top: 5px solid #e090c8;
+  background: linear-gradient(180deg, #ffffff 0%, #fff8fd 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sp-subtitle {
+  color: var(--muted);
+  font-size: 14px;
+  margin: -8px 0 18px;
+}
+
+/* Tabs */
+.sp-tabs {
+  display: flex;
+  gap: 6px;
+  background: #f4f4f8;
+  border-radius: 50px;
+  padding: 5px;
+  margin-bottom: 18px;
+}
+
+.sp-tab {
+  border: none;
+  background: transparent;
+  border-radius: 40px;
+  padding: 9px 18px;
+  font-size: 0.85rem;
+  font-weight: 800;
+  color: #a090b8;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  white-space: nowrap;
+  font-family: inherit;
+}
+
+.sp-tab:hover {
+  background: rgba(0,0,0,0.06);
+  color: #5a4a6a;
+}
+
+.sp-tab-active {
+  color: white !important;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+}
+
+/* Wheel */
+.sp-wheel-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sp-pointer {
+  font-size: 26px;
+  line-height: 1;
+  margin-bottom: -4px;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.15));
+}
+
+.sp-canvas {
+  border-radius: 50%;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.10);
+  display: block;
+  max-width: 100%;
+}
+
+/* Spin button */
+.sp-btn {
+  margin-top: 22px;
+  padding: 14px 48px;
+  font-size: 1.05rem;
+  font-weight: 800;
+  border: none;
+  border-radius: 60px;
+  color: white;
+  cursor: pointer;
+  letter-spacing: 0.05em;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.15);
+  transition: transform 0.12s;
+  font-family: inherit;
+}
+
+.sp-btn:hover { background-blend-mode: lighten; filter: brightness(1.05); }
+.sp-btn:active { transform: scale(0.93) !important; }
+
+/* Result card */
+.sp-result {
+  margin-top: 20px;
+  background: white;
+  border-radius: 22px;
+  padding: 22px 24px 26px;
+  width: 100%;
+  max-width: 400px;
+  box-shadow: 0 6px 28px rgba(0,0,0,0.08);
+  text-align: center;
+  animation: sp-pop 0.32s cubic-bezier(0.175,0.885,0.32,1.275);
+}
+
+@keyframes sp-pop {
+  from { opacity: 0; transform: scale(0.88) translateY(10px); }
+  to   { opacity: 1; transform: scale(1)    translateY(0); }
+}
+
+.sp-r-label  { font-size: 0.75rem; color: #c0b0d0; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 4px; }
+.sp-r-main   { font-size: 3.2rem; font-weight: 900; letter-spacing: 0.05em; line-height: 1; margin-bottom: 4px; }
+.sp-r-sub    { font-size: 0.85rem; color: #a090b8; margin-bottom: 10px; }
+.sp-r-tag    { display: inline-block; border-radius: 20px; padding: 3px 14px; font-size: 0.8rem; font-weight: 700; margin-bottom: 12px; }
+.sp-r-divider { border: none; border-top: 2px dashed #f0e8f4; margin-bottom: 12px; }
+.sp-r-wlabel { font-size: 0.75rem; color: #c0b0d0; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 8px; }
+.sp-r-words  { display: flex; flex-wrap: wrap; gap: 7px; justify-content: center; }
+
+.sp-word-chip {
+  background: linear-gradient(135deg, #fff8ff, #f4f0ff);
+  border-radius: 12px;
+  padding: 7px 14px;
+  font-size: 1.02rem;
+  font-weight: 700;
+  color: #3a2858;
+}
+
+/* Magic E */
+.sp-transform-row { display: flex; align-items: center; justify-content: center; gap: 10px; margin: 6px 0 8px; }
+.sp-t-word   { font-size: 2.4rem; font-weight: 900; line-height: 1; }
+.sp-t-arrow  { font-size: 1.4rem; color: #c0a8b8; }
+.sp-magic-e  { color: #f0a030; font-style: italic; }
+.sp-pairs-grid { display: grid; grid-template-columns: 1fr auto 1fr; gap: 6px 6px; align-items: center; }
+.sp-pair-short { background: linear-gradient(135deg,#fff4e8,#ffeedc); border-radius: 10px; padding: 6px 10px; font-size: 0.95rem; font-weight: 700; color: #d07030; text-align: center; }
+.sp-pair-arr   { color: #c09878; font-size: 0.85rem; text-align: center; }
+.sp-pair-long  { background: linear-gradient(135deg,#fff0f6,#ffe8f4); border-radius: 10px; padding: 6px 10px; font-size: 0.95rem; font-weight: 700; color: #e05090; text-align: center; }
+.sp-e-hi       { color: #f0a030; font-style: italic; }
